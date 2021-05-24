@@ -59,14 +59,19 @@ Proveer la asesoría científica necesaria para la determinación del estado de 
 
 La anchoveta se distribuye principalmente entre los 4oLS hasta los 42oLS, distinguiéndose tres stocks; uno que va desde el norte y centro del Perú, otro que va desde el sur del Perú al norte de Chile (XV-II Regiones) y el último en la zona central de Chile (Claramunt *et al*., 2012). Para este estudio, el área de distribución de la anchoveta está entre el sur de Perú y norte de Chile ( 16º00'LS - 24º00'LS) en la cual la especie constituye una unidad stock independiente del norte-centro de Perú, norte-centro y centro-sur de Chile (**Figura 1**), siendo una unidad de stock y pesquería independiente (Cubillos *et al*., 2007). Por ser un stock compartido entre dos países es considerado un recurso pesquero transfronterizo (Serra, 1983; Chirichigno y Vélez, 1998).
 
-Es importante señalar que el stock de anchoveta del sur de Perú y norte Chile, se plantea como un stock independiente del stock de anchoveta de la III y IV región (Leal y Canales, 2014). Canales y Leal (2009) plantean que la anchoveta centro-norte podría corresponder a una unidad poblacional independiente de la ubicada al norte de los 25°LS, que recluta, crece y se reproduce en el área. Aunque no se reportan estudios formales a contestar esta pregunta, existen antecedentes que permiten plantear la hipótesis de su independencia del stock sur de Perú y norte de Chile. Los cruceros oceanográficos desarrollados en la década de 1980 muestran focos discretos de desove (huevos y larvas) de anchoveta en las bahías de Caldera y Coquimbo (Rojas et al., 1983). Esto sugiere que la zona centro-norte de Chile podría representar un hábitat favorable para la anchoveta particularmente en las bahías de Caldera y Coquimbo, donde existen patrones de circulación y focos de surgencia (Valle-Levinson y Moraga, 2006) que podrían facilitar la retención y desarrollo de la anchoveta en estas bahías. Serra y Gil (1975) estudiaron la migración del stock de la anchoveta del sur de Perú y norte de Chile mostrando la ocurrencia de intensos y amplios movimientos migratorios hacia el sur de Perú en invierno y verano. Menos intensos y amplios son los movimientos migratorios de anchoveta con dirección hacia los 24°LS. Un estudio similar fue realizado en 1997 (Martínez *et al*., 1998) mostrando similares resultados en términos de dirección e intensidad de las migraciones. Se plantea que en la zona comprendida entre los 24°LS y 25°LS al parecer no existirían las condiciones oceanográficas para permitir un flujo continuo que permita la residencia de focos anchoveta entre ambas zonas (Serra, com. pers.). Las poblaciones de Caldera y Coquimbo habrían surgido cuando en algunos años (y por razones ambientales, e.i. El Niño), la anchoveta de la zona norte expande su distribución hacia el sur de los 24°LS, colonizando las bahías de Caldera y Coquimbo donde procesos oceanográficos permiten el crecimiento y desarrollo de poblacionales locales de anchoveta. Sin embargo, esta hipótesis no ha sido demostrada aún. \vspace{0.5cm}
-
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura1.pdf}
+\end{center}
+```
 ```{=tex}
 \small
 \textbf{Figura 1}. Área de distribución del stock de anchoveta del sur de Perú y norte de Chile, distribuido entre los 16°LS - 24°LS (FUENTE: Modelo Global de Elevación Batimétrico, ETOPO1-NOAA).
 \normalsize 
 \vspace{0.5cm}
 ```
+Es importante señalar que el stock de anchoveta del sur de Perú y norte Chile, se plantea como un stock independiente del stock de anchoveta de la III y IV región (Leal y Canales, 2014). Canales y Leal (2009) plantean que la anchoveta centro-norte podría corresponder a una unidad poblacional independiente de la ubicada al norte de los 25°LS, que recluta, crece y se reproduce en el área. Aunque no se reportan estudios formales a contestar esta pregunta, existen antecedentes que permiten plantear la hipótesis de su independencia del stock sur de Perú y norte de Chile. Los cruceros oceanográficos desarrollados en la década de 1980 muestran focos discretos de desove (huevos y larvas) de anchoveta en las bahías de Caldera y Coquimbo (Rojas et al., 1983). Esto sugiere que la zona centro-norte de Chile podría representar un hábitat favorable para la anchoveta particularmente en las bahías de Caldera y Coquimbo, donde existen patrones de circulación y focos de surgencia (Valle-Levinson y Moraga, 2006) que podrían facilitar la retención y desarrollo de la anchoveta en estas bahías. Serra y Gil (1975) estudiaron la migración del stock de la anchoveta del sur de Perú y norte de Chile mostrando la ocurrencia de intensos y amplios movimientos migratorios hacia el sur de Perú en invierno y verano. Menos intensos y amplios son los movimientos migratorios de anchoveta con dirección hacia los 24°LS. Un estudio similar fue realizado en 1997 (Martínez *et al*., 1998) mostrando similares resultados en términos de dirección e intensidad de las migraciones. Se plantea que en la zona comprendida entre los 24°LS y 25°LS al parecer no existirían las condiciones oceanográficas para permitir un flujo continuo que permita la residencia de focos anchoveta entre ambas zonas (Serra, com. pers.). Las poblaciones de Caldera y Coquimbo habrían surgido cuando en algunos años (y por razones ambientales, e.i. El Niño), la anchoveta de la zona norte expande su distribución hacia el sur de los 24°LS, colonizando las bahías de Caldera y Coquimbo donde procesos oceanográficos permiten el crecimiento y desarrollo de poblacionales locales de anchoveta. Sin embargo, esta hipótesis no ha sido demostrada aún. \vspace{0.5cm}
+
 En esta zona, la surgencia costera del norte de Chile se caracterizada por ser débil y continua (Blanco *et al*., 2001), con altos valores de clorofila (5 mg m^-3^) restringidos a una estrecha banda costera (\~20 km desde la costa), con un máximo ciclo anual en primavera-verano que es coincidente con el máximo ciclo anual del viento (Hormazabal *et al*., 2001; Correa-Ramírez *et al*., 2007; Correa-Ramírez *et al*., 2012). El ciclo de vida de la anchoveta está asociado a temperaturas que van desde los 12º a 23ºC (Silva *et al*., 2012; Claramunt *et al*., 2012), con una distribución dentro de las 50 mn de la costa y donde casi el 70% de las capturas de la flota industrial se desarrolla dentro de las primeras 20 mn durante los últimos diez años (Böhm *et al*., 2016). En esta franja costera la productividad biológica es alta debido al incremento de la abundancia del plancton producto de la surgencia costera. En la escala interanual, el principal forzante físico está asociado con ciclo ENOS que determina una baja captura producto de una profundización de la anchoveta afectando su disponibilidad y accesibilidad. Además, durante un evento cálido la anchoveta presenta un desplazamiento al sur de la zona de estudio (Yáñez *et al.*, 1995; Ñiquen y Bouchon, 2004).
 
 ## 2.2. Unidades de stock
@@ -77,16 +82,21 @@ Recientes estudios han determinados el número de unidades poblacionales (demogr
 
 La anchoveta es un desovante parcial, es decir, en un período determinado es posible encontrar ejemplares en diferentes estados de madurez sexual. Además, la anchoveta desova en tandas para producir un vasto número de pequeños huevos sobre un extenso período de desove que va desde mediados de agosto hasta el verano (Plaza *et al*., 2012; Claramunt *et al*., 2012), con una máxima intensidad que ocurre desde agosto a septiembre y otra desde diciembre a enero (Contreras-Reyes *et al*., 2016). En este extenso período de desove (**Figura 2**), en el cual el 60% del ciclo anual el índice gonadosomático está por un valor sobre 5 (valor que señala que el 90% o más de las hembras están sexualmente activas, confirmado mediante análisis histológico), la anchoveta desova en sitios asociados a altas concentraciones de clorofila (Claramunt *et al*., 2012), ya que esta variable ambiental es un buen indicador de la producción primaria (Longhurst *et al*., 1995) y por ende de la disponibilidad de alimento. Basilone *et al*. (2006) demostraron que los niveles de clorofila afectan la intensidad del desove y el factor de condición. La madurez a la talla de la anchoveta ha sido estudiada por Martinez *et al*. (2009), cuya talla media de madurez corresponde a 11.5 cm en longitud total.
 
-## 2.4. Reclutamiento
-
-Se define como reclutas a los ejemplares menores a 11.5 cm de longitud total e históricamente el ingreso de estos se ha observado desde octubre hasta marzo, sin embargo, durante los últimos años se ha detectado una mayor presencia de reclutas desde abril hasta agosto (Böhm *et al*., 2016). Sin embargo, la distribución de longitudes observada por el crucero hidroacústico estimó un 73% de reclutas, distribuyéndose los ejemplares entre 2.5 y 16 cm (Leiva *et al*., 2016), con una alta presencia de individuos de 2.5 y 5 cm asociados a la franja costera. Durante la fase cálida del evento ENOS se observa un alto porcentaje de ejemplares menores a los 12 cm, alcanzando un 70% la presencia de reclutas en las capturas de la flota industrial (Bertrand *et al*., 2004; Böhm *et al*., 2016). Además, durante el último tiempo se ha observado una disminución de las tallas medias en la flota industrial, donde la falta de ejemplares adultos ha estado ausente en los últimos años. La distribución de longitudes en las capturas de la flota industrial chilena muestra un patrón unimodal con una talla media de 14.7, 14.1, 13.0, 12.1, 12.6, 13.2, 11.4 y 11.5 cm en el 2013, 2014, 2015, 2016, 2017, 2018, 2019 y 2020 respectivamente. Durante los últimos diez años, la biomasa de este recurso ha registrado una importante reducción producto de una tendencia negativa en los reclutamientos y un aumento de la mortalidad por pesca (Espíndola y Quiroz, 2017). Sin embargo, en los últimos cruceros de evaluación directa realizados en la zona norte de Chile han registrado biomasas de reclutas por sobre el promedio histórico, cambiando la tendencia de anomalías negativas a positivas en los reclutamientos. Esto debido principalmente a que el reclutamiento del 2016 es uno de los mayores registrados en la última década, superior en un 24% al reclutamiento observado en el 2015, y muy similar al observado en el 2014. Es decir, durante los años 2015-16-17 se han registrado un valor medio de 241 ± 28 mil toneladas de reclutas. Aunque, la biomasa de reclutas observados a finales del segundo semestre del 2017 alcanzó un valor cercano a las 41 mil toneladas (Leiva *et al*., 2018), lo que representa una disminución del 84% con respecto a la estimación de biomasa de reclutas hecha en el primer semestre del 2017. Sin embargo, a finales del 2018 se registró un valor de 596 mil toneladas de reclutas, valor más alto de la serie historia desde que se hace el crucero acústico (1996) en el norte de Chile.
-
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura2.pdf}
+\end{center}
+```
 ```{=tex}
 \small
 \textbf{Figura 2}. Ciclo anual del índice gonadosomático en escala semanal construido a partir de los datos recolectados por el monitoreo reproductivo en la zona norte de Chile desde el año 2000 al 2018. La línea punteada en un valor de 5 señala el inicio de la actividad biológica (FUENTE: IFOP).
 \normalsize 
 \vspace{0.5cm}
 ```
+## 2.4. Reclutamiento
+
+Se define como reclutas a los ejemplares menores a 11.5 cm de longitud total e históricamente el ingreso de estos se ha observado desde octubre hasta marzo, sin embargo, durante los últimos años se ha detectado una mayor presencia de reclutas desde abril hasta agosto (Böhm *et al*., 2016). Sin embargo, la distribución de longitudes observada por el crucero hidroacústico estimó un 73% de reclutas, distribuyéndose los ejemplares entre 2.5 y 16 cm (Leiva *et al*., 2016), con una alta presencia de individuos de 2.5 y 5 cm asociados a la franja costera. Durante la fase cálida del evento ENOS se observa un alto porcentaje de ejemplares menores a los 12 cm, alcanzando un 70% la presencia de reclutas en las capturas de la flota industrial (Bertrand *et al*., 2004; Böhm *et al*., 2016). Además, durante el último tiempo se ha observado una disminución de las tallas medias en la flota industrial, donde la falta de ejemplares adultos ha estado ausente en los últimos años. La distribución de longitudes en las capturas de la flota industrial chilena muestra un patrón unimodal con una talla media de 14.7, 14.1, 13.0, 12.1, 12.6, 13.2, 11.4 y 11.5 cm en el 2013, 2014, 2015, 2016, 2017, 2018, 2019 y 2020 respectivamente. Durante los últimos diez años, la biomasa de este recurso ha registrado una importante reducción producto de una tendencia negativa en los reclutamientos y un aumento de la mortalidad por pesca (Espíndola y Quiroz, 2017). Sin embargo, en los últimos cruceros de evaluación directa realizados en la zona norte de Chile han registrado biomasas de reclutas por sobre el promedio histórico, cambiando la tendencia de anomalías negativas a positivas en los reclutamientos. Esto debido principalmente a que el reclutamiento del 2016 es uno de los mayores registrados en la última década, superior en un 24% al reclutamiento observado en el 2015, y muy similar al observado en el 2014. Es decir, durante los años 2015-16-17 se han registrado un valor medio de 241 ± 28 mil toneladas de reclutas. Aunque, la biomasa de reclutas observados a finales del segundo semestre del 2017 alcanzó un valor cercano a las 41 mil toneladas (Leiva *et al*., 2018), lo que representa una disminución del 84% con respecto a la estimación de biomasa de reclutas hecha en el primer semestre del 2017. Sin embargo, a finales del 2018 se registró un valor de 596 mil toneladas de reclutas, valor más alto de la serie historia desde que se hace el crucero acústico (1996) en el norte de Chile.
+
 ## 2.5. Alimentación
 
 La anchoveta se alimenta de fitoplancton y zooplancton, con una alta predominancia de fitoplancton por sobre zooplancton en 2.5 órdenes de magnitud (Medina *et al*., 2015). Los componentes de mayor importancia relativa en la dieta fueron las diatomeas en el fitoplancton y los copépoda dentro del zooplancton, con un claro patrón oportunista y depredador generalista de la anchoveta en la zona norte de Chile. Durante los estadios larvales, el principal ítem alimenticio es el fitoplancton y posteriormente el zooplancton (Yáñez-Rubio *et al*., 2011).
@@ -95,28 +105,58 @@ La anchoveta se alimenta de fitoplancton y zooplancton, con una alta predominanc
 
 Estudios recientes, utilizando análisis de microestructura de los otolitos, han reportado un crecimiento muy acelerado en la fase juvenil en algunas especies, incluido *Engraulidos*, lo que parece ser indicativo que estas especies alcanzan una porción significativa de sus longitudes asintóticas al finalizar el primer año de vida (Cerna y Plaza, 2016). En este contexto, se ejecutó el proyecto FIP 2009-17 que buscaba ajustar la asignación de edad anual, desde el análisis de microestructura de otolitos, que permitiera consignar la edad correcta de ejemplares que son producto de un reclutamiento prolongado en la zona norte de Chile. Los juveniles de esta especie crecieron a tasas muy elevadas, donde los reclutas de entre 11 y 12 cm de longitud total tenían entre 4 y 5 meses de edad. También se pudo determinar la edad diaria en ejemplares mayores a 12 cm de longitud total, reportándose que ejemplares de entre 15 y 16 cm no tenían más de 400 días de vida. Posteriormente, un segundo proyecto de investigación fue ejecutado (SUBPESCA No 4728-31 LP 11), el cual permitió validar la periodicidad diaria de formación de los micro incrementos primarios en juveniles y adultos de esta especie en condiciones de confinamiento, lo que ratificaba los resultados del FIP 2009-17. Y Finalmente, un último proyecto FIP 2014-31 permitió confirmar la determinación y asignación de la edad de la anchoveta en la XV-II Regiones. Este proyecto concluyó que la determinación de la edad a nivel diario es altamente confiable para la anchoveta, *Engraulis ringens*, en la zona norte de Chile. Esta secuencia de proyectos involucrados en la determinación de la edad de la anchoveta es mostrada en la **Figura 3**.
 
-También se han usado otolitos de peces de anchoveta capturados entre enero y julio del 2015, cuyos 47 otolitos se les contó el número de incrementos desde el segundo anillo concéntrico que rodea el primordio central hasta el borde del otolito. Las fechas de nacimiento fueron calculadas substrayendo a la fecha de captura la edad total en días. Los peces capturados correspondieron a juveniles de entre 8.5 y 12.5 cm de longitud total con edades que fluctuaron entre 97 y 167 días, que corresponden a peces nacidos entre julio y diciembre del 2014 y una menor cantidad entre enero y abril (Böhm *et al*., 2016). Entonces, la edad de reclutamiento de la anchoveta varía entre los 92 (3er mes) y 191 días (6to mes) desde la eclosión. Estos resultados son coincidentes con los reportados por Simpson y Buzeta (1967) que señalan dos nacimientos, uno durante el otoño (feb-abr) y el otro en primavera (jul-nov), con un coeficiente de crecimiento (k) de 1.6 año^-1^ y una longitud asintótica (Linf) de 16.9 cm. También Saetersdal y Valdivia (1964) reportan para el Perú una descendencia de verano y otra de primavera, con la entrada de peces juveniles durante octubre-enero y otra en marzo-junio, esta última contiene una alta proporción de peces de pequeño tamaño por debajo de los 12 cm.
-
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura3.pdf}
+\end{center}
+```
 ```{=tex}
 \small
 \textbf{Figura 3}. Diferentes proyectos que dan cuenta del modelo de crecimiento de la anchoveta en la zona norte de Chile, en el panel d) se resumen todos los datos juntos de los diferentes proyectos.
 \normalsize 
 \vspace{0.5cm}
 ```
+También se han usado otolitos de peces de anchoveta capturados entre enero y julio del 2015, cuyos 47 otolitos se les contó el número de incrementos desde el segundo anillo concéntrico que rodea el primordio central hasta el borde del otolito. Las fechas de nacimiento fueron calculadas substrayendo a la fecha de captura la edad total en días. Los peces capturados correspondieron a juveniles de entre 8.5 y 12.5 cm de longitud total con edades que fluctuaron entre 97 y 167 días, que corresponden a peces nacidos entre julio y diciembre del 2014 y una menor cantidad entre enero y abril (Böhm *et al*., 2016). Entonces, la edad de reclutamiento de la anchoveta varía entre los 92 (3er mes) y 191 días (6to mes) desde la eclosión. Estos resultados son coincidentes con los reportados por Simpson y Buzeta (1967) que señalan dos nacimientos, uno durante el otoño (feb-abr) y el otro en primavera (jul-nov), con un coeficiente de crecimiento (k) de 1.6 año^-1^ y una longitud asintótica (Linf) de 16.9 cm. También Saetersdal y Valdivia (1964) reportan para el Perú una descendencia de verano y otra de primavera, con la entrada de peces juveniles durante octubre-enero y otra en marzo-junio, esta última contiene una alta proporción de peces de pequeño tamaño por debajo de los 12 cm.
+
 Reconfigurando los datos de micro incrementos diarios (otolitos) hacia una escala de paso de tiempo mensual, como se puede apreciar en la **Figura 4**, esta indica que a los tres meses de edad hay individuos de 4 y 12 cm de longitud total dependiendo del año en que fueron recolectados los peces, mostrando la alta variabilidad que presenta el crecimiento de la anchoveta en los primeros meses de vida. Estos resultados indican que habría individuos madurando sexualmente a los 3 meses para los años 1973, 1982 y 2009. En cambio, para los seis meses de edad, más de la mitad de los individuos (64%) están maduros sexualmente (caja celeste en la **Figura 4**).
 
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura4.pdf}
+\end{center}
+```
 ```{=tex}
 \small
 \textbf{Figura 4}. Reconfiguración de los datos de crecimiento de la anchoveta de la zona norte de Chile a una escala de tiempo mensual. La caja verde contiene los individuos sexualmente maduros que corresponde a tallas mayores e igual a 11.5 cm. Y la caja celeste contiene a los individuos de seis meses de edad con un intervalo de tallas que va desde los 10 a 14 cm de longitud total.
 \normalsize 
 \vspace{0.5cm}
 ```
-## 2.7. Pesquería
+### 2.7. Ciclo de vida de la anchoveta
+
+Considerando la información previamente señalada en el punto 2, en el sentido de: i) una distribución principalmente costera, donde el 70% de las capturas se desarrolla dentro de las primeras 20 millas náuticas en los últimos diez años, ii) con un desove que ocurre en un extenso periodo que va desde primavera hasta el verano, con dos máximos de intensidad, uno que ocurre desde agosto a septiembre y el otro desde diciembre a enero, es decir, dos reclutamientos al año iii) una alimentación basada principalmente en el fitoplancton y secundariamente en el zooplancton, donde los componentes de mayor importancia relativa en la dieta son las diatomeas en el fitoplancton y los copépoda en el zooplancton, con un claro patrón oportunista y depredador generalista, iv) los nuevos antecedentes que dan cuenta de un coeficiente de crecimiento de la ecuación de von Bertalanffy de k = 1-2 año^-1^, donde al año de vida alcanza una longitud media de 16.3 cm y v) una mortalidad natural de 2.2 año^-1^. Entonces, en base a estos antecedentes expuestos se plantea el siguiente modelo conceptual de la historia de vida de la anchoveta (*Engraulis ringens*) para el sur de Perú y norte de Chile (**Figura 9**).
+
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura9.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 9}. Diagrama del modelo conceptual planteado para la anchoveta (\textit{Engraulis ringens}) del sur de Perú y norte de Chile (XV-II Regiones).
+\normalsize 
+\vspace{0.5cm}
+```
+## 2.8. Pesquería
 
 La anchoveta es el recurso objetivo de la pesquería pelágica de cerco de la zona norte de Chile, localizada en la Región de Arica y Parinacota, Región de Tarapacá y la Región de Antofagasta. La pesquería de anchoveta del norte de Chile (18º20'LS - 24º00'LS) ha reportado en promedio 1.271 ($\pm$ 713 mil) millones de toneladas anuales de desembarque desde el año 1984 hasta el 2017, lo que representa una alta importancia a la economía regional y de empleos directos e indirectos, con el consiguiente beneficio económico y social. Los desembarques de la anchoveta en el norte de Chile han presentado fuertes variaciones en la historia de la pesquería, en particular, las capturas fueron bajas en el 2009 y 2010 alrededor de un 46% bajo el promedio 1984-2012 de 809 mil toneladas. Esta situación también se observó en la pesquería del sur del Perú donde en particular los años 2010 y 2013 se observó una disminución de las capturas de más de un 47% bajo el promedio 1984-2012 de 552 mil toneladas. A pesar de que el desembarque de ambos países sufrió un incremento relativo en el año 2011 (1.5 millones de toneladas), en el año 2012 y 2013 se observó una disminución del desembarque total respecto al 2011. Durante el año 2014 (1 millón de toneladas) se observó un repunte del desembarque respecto de semestres equivalentes en años anteriores. En el 2015, el desembarque disminuye leventemente para alcanzar las 926 mil toneladas, pero en el 2016 se registró el valor más bajo durante los últimos diecisiete años, con un registro cercano a las 397 mil toneladas totales (**Figura 5**). Durante el 2017 este valor aumenta por sobre las 700 mil toneladas anuales para el stock compartido de anchoveta, sin embargo, en el 2018 este valor aumenta hasta las 971 mil toneladas anuales, superando la cuota de captura en 211 mil toneladas. En el 2019 este valor alcanzo las 719 mil toneladas, valor por debajo de la cuota correspondiente a 760 mil toneladas. Y en el 2020, este valor cae a las 271 mil toneladas.
 
 Estacionalmente, el análisis promedio histórico (2008-2012) de las capturas de anchoveta señalan que éstas se concentran en los siete primeros meses del año, aportando con el 87% del volumen del año, situación distinta a lo observado en los últimos años donde éstos se han focalizado en sólo dos a tres meses. Al respecto, en el 2014 el 89% de los desembarques se registraron en abril y mayo, mientras que en el 2015 el 78% se concentró en mayo y junio. En el 2016 el 73% de las capturas se focalizó en mayo y junio, siendo nulos a partir de septiembre para la región sur del Perú. En el norte de Chile, la captura de anchoveta se concentra en los meses de marzo (2014) y abril (2015). En cambio, en el año 2016 el 77% de las capturas se concentraron en cuatro meses (abril-julio), siendo junio el valor máximo. En el 2017, el 60% de las capturas se concentraron en tres meses (feb-abr), con marzo con el mes de máxima captura.
 
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura5.pdf}
+\end{center}
+```
 ```{=tex}
 \small
 \textbf{Figura 5}. Desembarques (t) por país para el stock de anchoveta del sur de Perú y norte de Chile. Los puntos rojos indican las cuotas de capturas asignadas para esta pesquería.
@@ -162,16 +202,18 @@ No obstante, lo anterior y con el propósito de alcanzar el Estándar Completo, 
 La dinámica poblacional es conceptualizada a través del modelo biológico de la historia de vida de la anchoveta (*Engraulis ringens*), que es sustentado por los siguientes componentes:
 
 a.  *Distribución geográfica*. Se asume que la población de anchoveta de los 16º - 24ºS constituye una única unidad de stock. Además, se considera que el stock de anchoveta es homogéneo al interior de esta área, donde el conjunto de individuos está sujeto a la misma probabilidad de crecimiento y mortalidad, y donde la migración fuera del área no es importante.
-b.  *Reproducción*. Dada la extensión del periodo de desove, que va desde primavera hasta el verano, se asume que los individuos del stock tienen dos eventos reproductivos discretos durante el año.
-c.  *Reclutamiento*. El reclutamiento ocurre a la forma de un pulso de abundancia a comienzos de cada semestre y estimado a través de desviaciones de R0.
-d.  *Modelo de crecimiento*. El crecimiento es determinado a través del análisis de micro incrementos diarios de los otolitos. Estos resultados indican que a un año de vida la longitud media debería ser de 16.3 cm (Cerna y Plaza, 2016; Plaza *et al*., 2017).
-e.  *Mortalidad natural*. La tasa de mortalidad natural se asume invariante y se considera un valor de 2.2 año^-1^. Valor que es obtenido a través de aplicación de diferentes métodos bio-analógico que están disponibles en la literatura (<http://barefootecologist.com.au/shiny_m.html>).
+b.  *Escala temporal*. Se asume una escala temporal semestral. Los supuestos sobre la escala de la dinámica se sustentan sobre el hecho que la anchoveta es una especie de vida corta (al año de vida alcanza una longitud media de 16.3 cm), que tiene un período de desove bien prolongado, comenzando a mediados de agosto y extendiéndose a través de toda la primavera para comenzar a declinar hacia fines del verano. El período prolongado de desove y los reclutamientos han determinado que la escala temporal de la dinámica poblacional usada sea al menos a nivel de semestre.
+c.  *Reproducción*. Dada la extensión del periodo de desove, que va desde primavera hasta el verano, se asume que los individuos del stock tienen dos eventos reproductivos discretos durante el año. La máxima intensidad del desove ocurre desde agosto a septiembre y otra desde diciembre a enero. Consistente con ello, el reclutamiento a la pesquería también se observa durante gran parte del año, registrándose un máximo reclutamiento durante enero y otro que ocurre en julio.
+d.  *Reclutamiento*. El reclutamiento ocurre a la forma de un pulso de abundancia a comienzos de cada semestre y estimado a través de desviaciones de R0.
+e.  *Modelo de crecimiento*. El crecimiento es determinado a través del análisis de micro incrementos diarios de los otolitos. Estos resultados indican que a un año de vida la longitud media debería ser de 16.3 cm (Cerna y Plaza, 2016; Plaza *et al*., 2017).
+f.  *Mortalidad natural*. La tasa de mortalidad natural se asume constante en el tiempo y a través de las edades. Se considera un valor de 2.2 año^-1^. Valor que es obtenido a través de aplicación de diferentes métodos bio-analógico que están disponibles en la literatura (<http://barefootecologist.com.au/shiny_m.html>).
+g.  *La mortalidad por pesca*. Es el resultado de la interacción entre la mortalidad por pesca semestral y el patrón de explotación edad y flota (Chile, Perú) específico. Se asume que los desembarques en esta pesquería es un buen sustituto de las capturas.
 
 El modelo de evaluación de stock de anchoveta se basa en un análisis estadístico de la dinámica poblacional donde las observaciones en tallas son transformadas a edades por medio de una clave talla- edad variable en el tiempo, además incorpora información biológica y pesquera. La información que ingresa al modelo consiste en los desembarques totales y datos de composición de longitudes que son proporcionados por el programa de monitoreo de las pesquerías de peces pelágicos (Chile-Perú), mientras que las evaluaciones acústicas de verano proporcionan información de la biomasa total, junto a la composición de abundancia por rango de longitud. Además, se incorpora información de la biomasa total estimada en la zona sur del Perú por las evaluaciones acústicas. En base a esta información el modelo de evaluación estima las variables de estado representadas por la biomasa desovante (BD) y los niveles de mortalidad por pesca (F) para cada una de las flotas, que junto a los puntos biológicos de referencia (PBR) permiten determinar el estatus y calcular la "Captura Biológicamente Aceptable (CBA)".
 
 En la implementación del procedimiento de evaluación de stock se utilizan protocolos científicos basados en la determinación de un sistema de niveles o "tiers" que permiten clasificar la información disponible de las especies y su pesquería, los cuales se han convertido en una herramienta de uso común en la asesoría orientada al manejo pesquero en la actualidad. Para estimar el Rendimiento Máximo Sostenible (RMS) se utiliza la estrategia de niveles y de acuerdo con la clasificación del estándar de información se definen los PBR o "proxy" que serán usados para determinar el estatus del recurso. La definición de los procedimientos de cálculo de los PBR y del marco de referencia especie específicos se basan en el estudio "Revisión de los puntos biológicos de referencia (RMS) en las pesquerías nacionales" (Paya *et al*. 2014), en cuyo primer taller, se desarrolló en conjunto con expertos internacionales, un sistema de tres niveles para derivar al RMS específico para las pesquerías en Chile. Además, para determinar el estatus de los recursos selectos, se considera lo establecido por el Comité Científico Técnico de Pelágicos Pequeños (CCT-PP) sobre los requerimientos técnicos que define los estándares de análisis y evaluación para las pesquerías analizadas, conforme a los niveles de conocimiento, información y calidad de los datos disponibles para esos fines.
 
-Al respecto, la anchoveta del sur de Perú y norte de Chile es una especie que tiene un rápido crecimiento en los primeros estadios de vida, con valores del coeficiente de crecimiento de von Bertalanffy que van de 1-2 año^-1^ (Plaza *et al*., 2017), para poder tempranamente reproducirse, lo que implica una alta mortalidad natural (M). Por ende, el reclutamiento está altamente influenciado por el ambiente. El modelo de evaluación de stock tiene una frecuencia temporal semestral, está estructurado a la edad, con información en tallas mediante el uso de una clave talla-edad variable en el tiempo. Se considera dos flotas comerciales en el modelo de evaluación y el patrón de selectividad es asumido variable en el tiempo. El modelo de evaluación de stock no incluye una relación stock-reclutamiento, sino desviaciones desde R0. Estos antecedentes permiten clasificar a anchoveta del sur de Perú y norte de Chile (XV-II Regiones) en el Tier o nivel 1b. A continuación, se detalla y fundamenta el conjunto de datos a emplear en el modelo de evaluación de stock, además se informa la incertidumbre asociada a los indicadores de abundancia propuestos para utilizar en la evaluación de anchoveta.
+Al respecto, la anchoveta del sur de Perú y norte de Chile es una especie que tiene un rápido crecimiento en los primeros estadios de vida, con valores del coeficiente de crecimiento de von Bertalanffy que van de 1-2 año^-1^ (Plaza *et al*., 2017), para poder tempranamente reproducirse, lo que implica una alta mortalidad natural (M). Por ende, el reclutamiento está altamente influenciado por el ambiente. El modelo de evaluación de stock tiene una frecuencia temporal semestral, está estructurado a la edad, con información en tallas mediante el uso de una clave talla-edad variable en el tiempo. Se considera dos flotas comerciales en el modelo de evaluación y el patrón de selectividad es asumido variable en el tiempo. El modelo de evaluación de stock no incluye una relación stock-reclutamiento, sino desviaciones desde $R_0$. Estos antecedentes permiten clasificar a anchoveta del sur de Perú y norte de Chile (XV-II Regiones) en el Tier o nivel 1b. A continuación, se detalla y fundamenta el conjunto de datos a emplear en el modelo de evaluación de stock, además se informa la incertidumbre asociada a los indicadores de abundancia propuestos para utilizar en la evaluación de anchoveta.
 
 ### 3.1.2. Datos de entrada al modelo de evaluación de stock
 
@@ -181,7 +223,7 @@ Los sistemas de monitoreo de la pesquería (i) y stock (ii) suministran a la eva
 
 En resumen:
 
--   Los desembarques realizados al sur de Perú y norte de Chile entre 1986 y el segundo semestre del 2020.
+-   Los desembarques realizados al sur de Perú y norte de Chile entre 1986 y el segundo semestre del 2020. El supuesto del desembarque se considera confiable puesto que se registra adecuadamente durante la descarga, y el nivel de mezcla con otras especies se considera bajo (Böhm com pers).
 -   Biomasa acústica total al sur del Perú (1990-2020) y biomasa acústica total en el norte de Chile (1997-2002, 2007-2020).
 -   Biomasa desovante a través del MPH en Chile (1992-2020).
 -   Composiciones de estructuras de tallas en las capturas para el sur del Perú (1986-2020) y norte de Chile (1986-2020) y composición de estructuras de tallas del crucero de Chile (2000-2002 y 2007-2020).
@@ -190,6 +232,55 @@ En resumen:
 -   Parámetros de historia de vida de Plaza *et al*. (2017).
 -   Una mortalidad natural de M = 2.2 año^-1^.
 
+#### Incorporación del Descarte en la serie de desembarques de la pesquería de la zona norte de Chile
+
+\quad
+
+En la pesquería de la zona norte de Chile, la principal causa del descarte identificada fue el enmalle de individuos juveniles, menor de 12 cm de longitud. Otras de las causas identificadas fueron: exceder el límite permitido de fauna acompañante (langostino colorado enano) y la captura de especies prohibidas (Vega et al., 2020). Las mayores capturas se registran en el primer semestre para ambas flotas, debido al desove principal que se registra en otoño-primavera. Y la menor captura registrada en el segundo semestre debido al desove secundario que ocurre durante el verano de cada año. Esto genera que la operación de la flota industrial se concentre en el primer semestre, tanto en la flota industrial como artesanal (**Tabla 1**), con 2210 viajes totales realizados en el primer semestre y 1835 en el segundo semestre, y para la flota artesanal se realizaron 2845 viajes durante el primer semestre y 1331 viajes durante el segundo semestre para el año 2017. El número de viajes muestreados fluctúa entre 30 a 59 para ambas flotas, con una cobertura de muestreo del 1.0 al 4.5% del total de viajes realizados por ambas flotas, durante el periodo 2017-2019. Durante el primer semestre 2020, se registró el nivel más bajo de captura total y descartada producto de la reducción significativa de los viajes totales sobre el recurso anchoveta, debido a la falta de operación de la flota industrial, siendo la anchoveta capturada principalmente por la flota artesanal. Además, las dificultades que presenta la flota artesanal para implementar protocolos de seguridad frente a la pandemia, generaron la más baja cobertura de muestreo. Por lo tanto, la estimación de descarte para el 2020 se considera atípica y poco confiable para ser utilizada en la evaluación de stock de este recurso. De este modo, el descarte propuesto para la corrección de la serie de desembarques semestrales (2020.0, 2020.5) para flota artesanal e industrial se obtiene a través del promedio del descarte de la serie 2017-2019 (**Tabla 2**). Se asume que entre los años 1986 al 1999 no ocurrió descarte (supuesto 0% descarte), ya que durante este período no existian regulaciones administrativas que pudieran incentivar el descarte. La corrección de la serie de captura de la flota chilena se realiza a partir del año 2000, basado en el inicio del proceso de certificación en la pesquería anchoveta norte y la recomendación de CBA por el CCT-PP. Para el período entre el 2000 al 2016 el descarte se asume igual al promedio del descarte de la serie 2017-2019 (**Tabla 2**) para la flota artesanal e industrial. La **Tabla 3** muestra los desembarques semestrales oficiales y Desembarques semestrales con incorporación del descarte utilizados en la evaluación de stock de anchoveta de la zona norte de Chile.
+
+Entonces, la captura corregida artesanal ($CC_{art}$) por el descarte está dada por:
+
+```{=tex}
+\begin{equation}
+CC_{art}=C_{tot}*Pro_{art}*(1+\%D_{art})
+\end{equation}
+```
+Donde la $C_{tot}$ es la captura total, $Pro_{art}$ es la proporción de la captura total correspondiente a la flota artesanal y $\%D_{art}$ es la estimación del descarte para la flota artesanal. La captura corregida industrial ($CC_{ind}$) por el descarte está dada por:
+
+```{=tex}
+\begin{equation}
+CC_{ind}=C_{tot}*Pro_{ind}*(1+\%D_{ind})
+\end{equation}
+```
+Donde $Pro_{ind}$ es la proporción de la captura total correspondiente a la flota industrial y $\%D_{ind}$ es la estimación del descarte para la flota industrial. Luego, la captura total corregida por semestre y por el descarte es:
+
+```{=tex}
+\begin{equation}
+CT_{cor}=CC_{art}+CC_{ind}
+\end{equation}
+```
+```{=tex}
+\small
+\begin{center} 
+\textbf{Tabla x.}
+\end{center}
+\begin{center} 
+\vspace{-0.2cm} Estimaciones de captura total (CT), retenida (CR) y descartada (CD) en toneladas, porcentaje de descarte, tamaños de muestra de los viajes muestreados y totales y porcentaje de cobertura para el período 2017 al 2020 por semestre para la pesquería de cerco de para la anchoveta de la zona norte.
+\end{center}
+ \normalsize
+ \vspace{-0.2cm}
+```
+```{=tex}
+\small
+\begin{center} 
+\textbf{Tabla x.}
+\end{center}
+\begin{center} 
+\vspace{-0.2cm} Captura total (CT) y descartada (CD) en toneladas promedio 2017-2019 por semestre y flota utilizados para obtener el % de descarte a utilizar en el supuesto i (corrección de la serie de desembarques) y para el supuesto ii (proyección de CBA) se utiliza la captura total y descartada promedio para la  flota total chilena.
+\end{center}
+ \normalsize
+ \vspace{-0.2cm}
+```
 ### 3.1.3. Modelo de evaluación de stock
 
 El modelo estadístico de evaluación de stock de anchoveta del sur de Perú y norte de Chile se basa en la dinámica de las estructuras de tallas por flotas (Perú y Chile), donde las tallas son convertidas a edades a través de la simulación de una clave talla-edad variable en el tiempo. Además, se incorpora la biomasa total del crucero acústico de Perú, biomasa total del crucero acústico de Chile, biomasa desovante estimada a través del MPH Chile y los desembarques peruanos y chilenos.
@@ -228,6 +319,7 @@ Donde $M$, $F$ y $s$ han sido previamente definidas, $f$ indexa el tipo de flota
 \zeta_{t,f} = \left\lbrace
 \begin{array}{ll}
 2- \left[\frac{a-k}{v^l}\right]^2 , a \leq k\\
+\\
 2- \left[\frac{a-k}{v^r}\right]^2 , a > k
 \end{array}
 \right.
@@ -378,8 +470,7 @@ Donde, $\theta$ corresponde al vector de parámetros a estimar dado los datos ob
 
 -   *Coeficientes de variación de los índices de biomasa y desembarques*
 
-Los coeficientes de variación (CV) que son asignados a los distintos índices de biomasa miden el nivel de desviación que tienen los datos respecto del valor central verdadero como parte del error de observación. El coeficiente de variación tiene relevancia en las estimaciones ya que es inversamente proporcional al peso que tiene una determinada fuente de datos en la verosimilitud total. La **Tabla 1** muestra los CV utilizados.
-\vspace{0.3cm}
+Los coeficientes de variación (CV) que son asignados a los distintos índices de biomasa miden el nivel de desviación que tienen los datos respecto del valor central verdadero como parte del error de observación. El coeficiente de variación tiene relevancia en las estimaciones ya que es inversamente proporcional al peso que tiene una determinada fuente de datos en la verosimilitud total. La **Tabla 1** muestra los CV utilizados. \vspace{0.3cm}
 
 ```{=tex}
 \small
@@ -399,8 +490,7 @@ Los coeficientes de variación (CV) que son asignados a los distintos índices d
 | Biomasa total Perú       | 0.30 |
 | Biomasa total Chile      | 0.30 |
 
-El **Tabla 2** muestra el resumen de los valores de tamaños de muestra finales utilizados en la verosimilitud de la estructura de tallas de cada flota y observación directa de Chile. Estos valores fueron determinados mediante el proceso iterativo recomendado por Gavaris y Ianelli (2002) considerando el promedio armónico. Este método (que esta al final del archivo .tpl) comienza con un valor arbitrario de tamaños de muestra, que durante el proceso iterativo, llega a valores estables que son propuestos para la evaluación de stock. A menudo es deseable verificar estas estimaciones a medida que se vayan incorporando nuevas composiciones de tamaños o datos, ya que estos valores pueden ir variando a medida que se va incorporando nuevas fuentes de información o cambios en los supuestos del modelo de evaluación.
-\vspace{0.3cm}
+El **Tabla 2** muestra el resumen de los valores de tamaños de muestra finales utilizados en la verosimilitud de la estructura de tallas de cada flota y observación directa de Chile. Estos valores fueron determinados mediante el proceso iterativo recomendado por Gavaris y Ianelli (2002) considerando el promedio armónico. Este método (que esta al final del archivo .tpl) comienza con un valor arbitrario de tamaños de muestra, que durante el proceso iterativo, llega a valores estables que son propuestos para la evaluación de stock. A menudo es deseable verificar estas estimaciones a medida que se vayan incorporando nuevas composiciones de tamaños o datos, ya que estos valores pueden ir variando a medida que se va incorporando nuevas fuentes de información o cambios en los supuestos del modelo de evaluación. \vspace{0.3cm}
 
 ```{=tex}
 \small
@@ -420,15 +510,16 @@ El **Tabla 2** muestra el resumen de los valores de tamaños de muestra finales 
 | Evaluación directa Chile | 2000-2002 y 2007-2020 |         17        |
 
 #### e) Parámetros estimados por la evaluación
+
 \quad
 
 El vector de parámetros $\theta$ corresponde a:
+
 ```{=tex}
 \begin{equation}
 \theta=\{k_{f,b},v^r_{f,b},v^l_{f,b},\alpha^c_b,\beta^c_b,\gamma^c_b,\lambda^c_b,\bar{R}_0,\delta_{s,1986}\cdots \delta_{s,2020,5},N_{a_1}^{t=1} \cdots N_{a_6}^{t=1},F^f_{s,1986} \cdots F^f_{s,2020,5},q^c_{TPE},q^c_{TCH},q^c_{BDCH}\}
 \end{equation}
 ```
-
 Los parámetros resueltos por el modelo corresponden a los parámetros de la selectividad,$k_{f,b}$,$v^r_{f,b}$ y $v^l_{f,b}$ para cada flota $f$ y bloque $b$ para Chile y Perú. Los parámetros para la selectividad a la edad para el crucero acústico de Chile, $\alpha_b^c$ y $\beta_b^c$ para la selectividad a la talla para el crucero acústico de Chile, $\gamma^c_b$ y $\lambda^c_b$. Las desviaciones de los reclutamientos semestrales $\delta_s$ desde 1986.0 al 2020.5, el reclutamiento virginal $R_0$ y las abundancias iniciales, $N_a^{t=1}$ con a tomando valores de 0 hasta 5. Las mortalidades por pesca semestrales $F^f_{s,1986}$ para cada semestre $s$ y para ambas flotas $f$. El modelo asume que todos los índices de biomasa son indicadores relativos de la biomasa total de Chile $q^c_{CH}$ y Perú $q^c_{PE}$ , biomasa desovante de Chile $q^c_{BDCH}$ que asume tres bloques, por tanto se estiman cinco capturabilidades. El BDCH modelo de evaluación de stock de anchoveta contiene actualmente un número total de 269 parámetros.
 
 \pagebreak
@@ -445,13 +536,74 @@ El establecimiento del estatus de los recursos se realizará conforme el estánd
 
 \quad
 
+Sin perjuicio de los trabajos anteriores, durante el año 2013 y 2014 se desarrolló un Proyecto denominado "Revisión de los puntos biológicos de referencia para las pesquerías nacionales" donde los proxies al RMS para la anchoveta fueron finalmente estimados y luego ratificados por el Comité Científico Técnico en:
+
+-   Biomasa al Rendimiento Máximo Sostenido ($B_{RMS}$) = 50% Biomasa desovante virginal ($BD_0$)
+-   Mortalidad por pesca $F_{RMS}$, corresponde aquella mortalidad por pesca que en el largo plazo produce el 55% de la biomasa desovante por recluta = F55%BDPR.
+
+Para la determinación del valor de la mortalidad por pesca de referencia ligada al RMS, se utiliza un análisis por recluta de dinámica combinada (Beverton y Holt, 1957) que describen el cambio de la biomasa de una cohorte o clase anual por efectos de la mortalidad natural y la pesca. La producción y la biomasa desovante por recluta (YPR, BDPR) son obtenidas en función de la mortalidad por pesca (F), y en cada una de estas curvas es factible identificar niveles de referencia biológicos que se supone deberían estar minimizando el impacto de la pesca sobre el stock.
+
+La biomasa adulta o desovante por recluta (BDPR) es obtenida como función de la mortalidad por pesca (F) y en esta curva es factible identificar el nivel de referencia biológico (F55%BDPR) que se supone debería minimizar el impacto de la pesca sobre el stock, permitiendo es escape en torno al 55% respecto del valor que existiría en ausencia de explotación pesquera.
+
+La estimación de esta curva y su valor de referencia (55%BDPR) se obtiene por medio de la dinámica de la abundancia en equilibrio definida como,
+
+```{=tex}
+\begin{equation}
+N_a = \left\lbrace
+\begin{array}{ll}
+1,a=1\\
+\\
+N_{a-1}e^{(-M-FS_{a-1})},1<a<m\\
+\\
+\frac{N_{a-1}e^{(-M-FS_{a-1})}}{1-e^{(-M-FS_{m})}},a=m
+\end{array}
+\right.
+\end{equation}
+```
+Donde $N_a$ es la abundancia en número a la edad $a+1$ para una población con longevidad máxima $m$, $S_{a-1}$ corresponde a la selectividad edad específica, $M$ es la mortalidad natural y $F$ es la mortalidad por pesca. Basada en esta abundancia ($N_a$), la biomasa desovante por recluta se define como,
+
+```{=tex}
+\begin{equation}
+BDPR=\sum_{a=0}^{m} N_a exp(-d_sZ_a)m_a\bar{w}_a
+\end{equation}
+```
+Donde, $d_s$ es la fracción del semestre donde ocurre el desove, $m_a$ es la fracción de peces maduros a la edad y $\bar{w}_a$ es el peso medio a la edad.
+
 #### Estatus
 
 \quad
 
+Para diagnosticar el estatus del recurso se utiliza el diagrama de fase. Este diagrama de dispersión se construye entre la razón de la biomasa desovante respecto a la biomasa desovante objetivo ($BD/BD_{objetivo}$) o aquella que lleva al máximo rendimiento sostenido (RMS) al stock, y la razón de mortalidades por pesca y la del RMS ($F/F_{RMS}$). Estas variables nacen de las estimaciones provenientes de la evaluación de stock y la estimación de los puntos biológicos de referencia. A su vez, en este diagrama (**Figura 6**) se identifican distintas áreas que dicen relación con la condición del stock esto es, subexplotado, plenamente explotado, sobreexplotado y colapsado en concordancia con la Nueva Ley General de Pesca y Acuicultura y los CCT-PPP (2014). A estas definiciones se agrega el concepto de Sobrepesca, lo cual nace de los talleres realizados durante el 2013 en conjunto con la Subsecretaria de Pesca (Canales *et al*., 2014).
+
+De esta forma se tiene que el stock de anchoveta del sur de Perú y norte de Chile puede estar en condición de:
+
+i.  **Sobreexplotado**, si la razón $BD/BD_{RMS}$ del último año es menor a 1 y además cae bajo el valor inferior en biomasa de la zona de plena explotación.
+
+ii. **Plena explotación**, se define considerando los siguientes límites:
+
+    (a) límite bajo el objetivo de manejo (10% bajo $B_{MRS}$) y
+    (b) límite sobre el objetivo de manejo (35% sobre $B_{MRS}$).
+
+iii. **Subexplotación**, si la razón $BD/BD_{RMS}$ del último año es mayor a 1 ($BD/BD_{RMS}>1$) y además es superior al valor límite de la zona de plena explotación.
+
+iv. **Sobrepesca**, si la razón $F/F_{RMS}$ del último año es mayor a 1 y además es mayor al límite correspondiente al valor superior en mortalidad por pesca de la zona de plena explotación.
+
+Cabe hacer notar que por objetivo de manejo de la pesquería de anchoveta sur de Perú y norte de Chile se entenderá alcanzar el Máximo Rendimiento Sostenido (MRS) de la biomasa desovante.
+
+```{=tex}
+\begin{center}
+\includegraphics[width=0.6\textwidth]{Figuras/figura6.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 6}. Diagrama de fase tipo para las pesquerías de recursos pequeños pelágicos acordado por el Comité Científico Técnico.
+\normalsize 
+\vspace{0.5cm}
+```
 ### 3.2.2. Calidad de la información
 
-Una de las tareas fundamentales en el proceso de evaluación stock consiste en dimensionar el nivel de conocimiento del stock en estudio. Determinar el nivel de calidad de datos e información permite definir el tipo de enfoque de modelamiento que es posible usar para determinar los niveles poblacionales del stock, así como también definir procedimientos para el cálculo de los puntos biológicos de referencia (PBR). De acuerdo con Restrepo et al. (1998), la calidad de la información permite clasificar el estándar de una pesquería en tres categorías según los siguientes criterios:
+Una de las tareas fundamentales en el proceso de evaluación stock consiste en dimensionar el nivel de conocimiento del stock en estudio. Determinar el nivel de calidad de datos e información permite definir el tipo de enfoque de modelamiento que es posible usar para determinar los niveles poblacionales del stock, así como también definir procedimientos para el cálculo de los puntos biológicos de referencia (PBR). De acuerdo con Restrepo *et al*. (1998), la calidad de la información permite clasificar el estándar de una pesquería en tres categorías según los siguientes criterios:
 
 **Estándar completo ("Data-Rich")**: Se pueden realizar estimaciones confiables del rendimiento máximo sostenido (RMS) y/o de cantidades relacionadas, así como de la abundancia del stock. La evaluación puede ser sofisticada e incorporar la mayor parte de las fuentes de incertidumbre o bien una cantidad razonable de ella.
 
@@ -473,7 +625,11 @@ Esta información y además de los antecedentes expuestos serán dados a conocer
 
 ### 3.3.1. Captura Biológicamente Aceptable (CBA)
 
-La estimación de las capturas biológicamente aceptables se realizó mediante un análisis de estrategias de explotación, que considera niveles de mortalidad por pesca constante, es decir, las remociones por pesca son proporcionales a los cambios de abundancia del stock. El criterio de explotación está basado en los Puntos Biológicos de Referencia (PBR), el cual considera el criterio el F55%BDPR (biomasa desovante por recluta) como un proxy del nivel de mortalidad por pesca que genera el Rendimiento Máximo Sostenido (RMS). Además, es posible usar otros valores de mortalidad por pesca para realizar estimaciones de captura y proyecciones del stock. En base a que el modelo entrega estimaciones de abundancia para todos los grupos etarios del último semestre de evaluación, entonces se asumen los siguientes supuestos:
+La estimación de las capturas biológicamente aceptables se realizó mediante un análisis de estrategias de explotación, que considera niveles de mortalidad por pesca constante, es decir, las remociones por pesca son proporcionales a los cambios de abundancia del stock. El criterio de explotación está basado en los Puntos Biológicos de Referencia (PBR), el cual considera el criterio el F55%BDPR (biomasa desovante por recluta) como un proxy del nivel de mortalidad por pesca que genera el Rendimiento Máximo Sostenido (RMS). Además, es posible usar otros valores de mortalidad por pesca para realizar estimaciones de captura y proyecciones del stock.
+
+En el caso de la pesquería de anchoveta norte, la recomendación de CBA comienza con un reporte entregado en el mes de septiembre en que se estima una CBA inicial. Este reporte permite al CCT-PP (reunión de octubre) establecer el estatus y recomendar el rango de CBA para el año siguiente en base a percentiles de riesgo (10% - 50%) de sobrepasar el objetivo de manejo $p(F>F_{RMS})$.
+
+En base a que el modelo entrega estimaciones de abundancia para todos los grupos etarios del último semestre de evaluación, entonces se asumen los siguientes supuestos:
 
 -   Las proyecciones se realizan en el corto plazo, 2 semestres. (2021.0 y 2021.5).
 -   Durante las proyecciones, los reclutamientos a ingresar provienen del escenario de reclutamientos promedios diferenciado para el primer y segundo semestre (**Figura 7**).
@@ -485,6 +641,11 @@ La estimación de las capturas biológicamente aceptables se realizó mediante u
 Para proyectar el stock de anchoveta del sur de Perú y norte de Chile es necesario incorporar los nuevos reclutas para cada semestre proyectado, primer y segundo semestre del 2021. La elección de los niveles de reclutamientos que entran en cada semestre tiene fuertes implicancias en los niveles poblacionales que se estimen en el futuro y en los niveles de captura biológicamente aceptable debido principalmente al rápido crecimiento (**Figura 4**) y a una alta mortalidad natural más la mortalidad por pesca que genera el $F_{RMS}$. Dado que el último reclutamiento estimado por el modelo de evaluación tiene una alta incertidumbre (**Figura 7**), ya que no tiene la captura del primer semestre del 2021 para regularse y dado el fuerte patrón retrospectivo a sobreestimar los últimos reclutamientos (**Figura 35**) durante los últimos semestres. Es necesario aplicar el enfoque precautorio en la toma de decisión sobre los niveles de captura biológicamente aceptable, es decir, se podría considerar el percentil más bajo cuando la incertidumbre sea alta o penalizar este reclutamiento antes que se proyecte la población del stock de anchoveta.
 
 ```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura7.pdf}
+\end{center}
+```
+```{=tex}
 \small
 \textbf{Figura 7}. Escenario de reclutamientos promedios diferenciado para el primer y segundo semestre empleados para proyectar el stock de anchoveta del sur de Perú y norte de Chile. Las líneas punteadas indican los promedios para cada semestre.
 \normalsize 
@@ -493,16 +654,39 @@ Para proyectar el stock de anchoveta del sur de Perú y norte de Chile es necesa
 En la actualidad, la CBA considera un rango de valores (de 10 a 50%) basado en el riesgo de no alcanzar el objetivo de conservación. El riesgo corresponde a una distribución de probabilidad acumulada y representa la expectativa de no cumplir el objetivo de conservación, que es equivalente a mantener el stock parental robusto. Dada la alta incertidumbre existente en el establecimiento de la CBA, se recomienda un nivel de riesgo inferior al 50%. En la sexta sesión (octubre del 2019) del CCT-PP se acordó una CBA para el año 2020 de 784.307 toneladas con un nivel de riesgo del 30%. Con el objeto de mejorar el proceso de establecimiento de CBA y los niveles de riesgo de no alcanzar el objetivo de manejo, se presenta una propuesta metodológica que permite definir un marco de trabajo para la proyección poblacional y para la toma de decisión del nivel de riesgo. Según los escenarios probables de biomasa de reclutas y/o biomasa desovante del semestre siguiente al término de la evaluación, y utilizando la metodología indicada por Gruss *et al*. (2016), la cuál permite establecer una CBA mediante la captura al RMS ($C_{RMS}$) y un porcentaje de resguardo o buffer respecto de la CRMS (**Figura 8**). Este buffer entre la CBA y la captura al RMS se calcula a partir de la probabilidad de sobrepesca considerada aceptable (P\*) y el error estándar de la distribución de la $C_{RMS}$ (sigma), bajo el supuesto de que la $C_{RMS}$ presenta una distribución normal. Dada la distribución de la $C_{RMS}$, la CBA se determina de manera que la probabilidad de que CBA exceda $C_{RMS}$ sea igual a P\*.
 
 ```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/Densidad_CBA2021-1.pdf}
+\end{center}
+```
+```{=tex}
 \small
-\textbf{Figura 8}. actualizar imagen y texto
+\textbf{Figura 8}. Nivel de resguardo de la Captura al RMS (1-CBA/CRMS) (panel izquierdo) y densidad de probabilidad de la CRMS (panel derecho). La región sombreada corresponde al rango entre el 10\% - 50\% de probabilidad de sobrepasar la CRMS (P*) que da origen a la CBA determinada por el CCT-PP.
 \normalsize 
 \vspace{0.5cm}
 ```
-### 3.3.2. Proyección del stock
+### 3.3.2. Incorporación del descarte en la CBA
+
+Considerando que el descarte es una fuente de mortalidad adicional a la mortalidad por pesca, se realiza el descuento a la captura al RMS de un porcentaje asociado a la captura descartada que podría ocurrir durante el primer y segundo semestre del año 2021 en la flota total. Este supuesto de descarte semestral proyectado se obtiene del promedio de la serie de datos 2017-2019, correspondiente a un 2% y un 1.8% para el primer y segundo semestre, respectivamente (**Tabla x**).
+
+```{=tex}
+\small
+\begin{center} 
+\textbf{Tabla x.}
+\end{center}
+\begin{center} 
+\vspace{-0.2cm} Captura total (CT) y descartada (CD) en toneladas promedio 2017-2019 por semestre y flota utilizados para obtener el \% de descarte a utilizar en la proyección de CBA. Se utiliza la captura total y descartada promedio para la  flota total chilena.
+\end{center}
+ \normalsize
+ \vspace{-0.2cm}
+```
+|  Año | Flota | Semestre | Captura total | Captura descartada | \% de descarte |
+|:----:|:-----:|:--------:|:-------------:|:------------------:|:--------------:|
+| 2021 | Total |     1    |    501.860    |       10.054       |       2.0      |
+| 2021 | Total |     2    |    229.877    |        4.150       |       1.8      |
+
+### 3.3.3. Proyección del stock
 
 Finalmente, se realiza un conjunto de análisis estocásticos de las probables trayectorias de la biomasa desovante como consecuencia de la aplicación de las diferentes estrategias, tácticas y reglas de decisión consideradas en los respectivos Planes de Manejo y/o Programas de Recuperación de las pesquerías, según corresponda, considerando la incertidumbre del estatus (e.g. matriz de correlación de variables de estado) y los posibles estados de la naturaleza a futuro (e.g. niveles probables de reclutamiento futuro). Lo anterior debe permitir analizar los niveles de riesgo de no alcanzar los objetivos de conservación en el corto o mediano plazo, considerando la incertidumbre del estatus y los probables estados de la naturaleza a futuro.
-
-### 3.3.3. Incorporación del descarte en la CBA
 
 \pagebreak
 
@@ -512,12 +696,483 @@ Finalmente, se realiza un conjunto de análisis estocásticos de las probables t
 
 ### 3.4.1. Programa de mejoramiento continuo de la calidad de la asesoría científica
 
+Para el cumplimiento de este objetivo, se informará de los avances alcanzados durante el desarrollo del estudio, conforme al Programa de Mejoramiento Continuo de la Calidad de la Asesoría Científica (PMCCAC), elaborado por recurso y/o pesquería. Este PMCCAC se enfocará a las brechas de datos, información y conocimiento, en relación con la situación general de la pesquería acorde con los requerimientos de asesoría solicitados por la administración pesquera. Sobre la base de lo anterior, se evaluará el desempeño logrado y se propondrán las acciones, actividades, metas, plazos y condiciones que consideren necesarios para lograr disminuir las brechas identificadas y los requerimientos para alcanzar los estándares de asesoría previamente definidos.
+
+En el contexto del desarrollo metodológico del trabajo, se realizará un listado de comprobación en el que se deberá dar cuenta de todas las recomendaciones emanadas de los revisores expertos, con el propósito de verificar el cumplimiento de cada uno de las observaciones, correcciones y recomendaciones señaladas por los revisores.
+
+En el caso de aquellos recursos cuyas metodologías de evaluación de stock hayan sido sometidas a Procesos de Revisión por Pares (PRPP), el informe deberá contener una sección especialmente dedicada a informar detalladamente cómo se abordaron y fueron implementadas cada una de las recomendaciones realizadas por los expertos revisores externos (e. g., situación anterior, modificación, situación post- revisión con los cambios/mejoras implementadas), a la forma de un listado de comprobación (o checklist).
+
+*Actividades*
+
+i)  Ejecución de un programa de trabajo.
+ii) Elaboración de un informe conteniendo los avances y resultados durante el período anual del proyecto, conteniendo el PMCCAC actualizado y un listado de comprobación (inicio/final) de sus logros.
+iii) Para aquellas pesquerías que se han sometido a revisión de pares, elaborar un informe detallado respecto del avance en la incorporación de las recomendaciones de los expertos.
+
 \pagebreak
 
 # 4. RESULTADOS
+
+## 4.1. Objetivo específico 1.
+
+*"Implementar procedimientos de evaluación de stock basados en protocolos científicos para la determinación del estatus de anchoveta y sardina española, con arreglo al nivel de información, conocimiento e incertidumbre correspondiente, conforme a los estándares actuales en ciencia pesquera."* \vspace{0.5cm}
+
+### 4.1.2. Datos de entrada al modelo de evaluación de stock
+
+El período de análisis de la evaluación de stock comienza en 1986 hasta el segundo semestre del 2020, con información completa hasta el segundo semestre del año 2020. Se incluye la biomasa total y composición de la estructura de tamaños estimada por el crucero de Chile, la biomasa total del sur de Perú, la biomasa desovante estimada por el MPH en Chile, la composición de la estructura de tamaños y el desembarque para la flota chilena. No así la flota peruana, que no registro capturas durante el año 2020.
+
+#### a) Desembarques
+
+\quad
+
+La historia de la pesquería del stock de anchoveta compartido entre el sur de Perú y norte de Chile, comienza con leves desembarques ocurridos en 1984 y a contar de 1986 se incrementan considerablemente hasta el año 1994 (**Tabla 3; Figura 10**), los más altos desembarques ocurren entre los años 1994 al 2002. Desde el año 2004 al primer semestre 2013 estos muestran una tendencia de descenso con máximos relativos. El desembarque por país muestra un cambio de dominancia. Entre los años 1986 al 2004 se puede señalar que el mayor desembarque fue realizado en Chile. Sin embargo, entre el 2005 al 2009 los mayores desembarques se realizaron en Perú. Entre las causas probables de la dominancia peruana del desembarque se encuentra el aumento del esfuerzo de pesca en la pesquería del sur del Perú debido a la mayor disponibilidad de anchoveta en dicha área según lo informado por IMARPE en el 12o taller de evaluación conjunta de IFOP e IMARPE, 2008 (Serra y Canales, 2013). Y desde el año 2010 a diciembre del 2013 el desembarque chileno ha dominado el desembarque total del stock anchoveta. Se postula que el incremento del desembarque chileno en el año 2011 habría estado asociado a un desplazamiento de la anchoveta del sur de Perú hacia el norte de Chile evidenciándose un incremento del desembarque particularmente en la zona de Arica (Böhm *et al*., 2013).
+
+Más recientemente y de acuerdo a las estadísticas oficiales, el primer y segundo semestre del 2014 se capturaron en Chile 375.1 mil y 354.3 mil toneladas, respectivamente. Por su parte, en el sur del Perú y de acuerdo a lo informado en Oficio PRODUCE 100-59-2015, el desembarque acumulado de enero a octubre había sido de 336.7 mil toneladas, de las cuales solo 26 mil toneladas fueron capturadas en el segundo semestre. Si se considera además que producto de este oficio la captura de anchoveta fue prohibida en la zona sur del Perú en noviembre y diciembre 2014 debido a la gran presencia de reclutas, se deduce entonces que la captura en esta región pudo haber alcanzado 310 mil toneladas durante el primer semestre del 2014. De esta forma, el desembarque total 2014 se estima en 1.082 millones de toneladas (**Tabla 3**) el cual se traduce un alza del 15% respecto del año 2013, y el desembarque del 2015 disminuyo en un 1% con respecto al 2013. Y el desembarque del 2015 se tradujo en una disminución del 14% con respecto al del 2014. Sin embargo, el desembarque durante el 2016 se redujo fuertemente, alcanzando 397 mil toneladas para ambos países. Y finalmente, en el año 2017 el desembarque aumento a 708 mil toneladas. Cerrando el año 2018, se registra un desembarque total de 971.1 mil toneladas, un 37% superior a lo registrado en el 2017. Desde el 2016 hasta el 2018 se viene registrando un aumento constante de los desembarques, pasando de 397.4, 708.7, 984.1 mil toneladas, respectivamente (**Figura 10**). Desde el 2019 hasta el 2020 se registra una disminución del desembarque, pasando desde 719.9 a 271.9 mil toneladas, un reducción del 62%.
+
+\pagebreak
+
+```{=tex}
+\small
+\begin{center} 
+\textbf{Tabla 3.}
+\end{center}
+\begin{center} 
+\vspace{-0.2cm} Desembarques de la anchoveta stock 16°LS – 24°LS 1986-2020.
+\end{center}
+ \normalsize
+ \vspace{-0.2cm}
+```
++------+------------+-------------+-------------+
+| Año  | Sur Perú   | Norte Chile | Total       |
+|      |            |             |             |
+|      | (x10\^3 t) | (x10\^3 t)  | (x10\^3 t)  |
++:====:+:==========:+:===========:+:===========:+
+| 1986 | 312.2      | 1248.7      | 1560.9      |
++------+------------+-------------+-------------+
+| 1987 | 246.4      | 178.8       | 425.2       |
++------+------------+-------------+-------------+
+| 1988 | 285.6      | 768.5       | 1054.1      |
++------+------------+-------------+-------------+
+| 1989 | 462.8      | 1263.8      | 1726.6      |
++------+------------+-------------+-------------+
+| 1990 | 179.9      | 573.1       | 753.0       |
++------+------------+-------------+-------------+
+| 1991 | 377.5      | 562.8       | 940.3       |
++------+------------+-------------+-------------+
+| 1992 | 873.2      | 953.9       | 1827.1      |
++------+------------+-------------+-------------+
+| 1993 | 631.4      | 1056.2      | 1687.6      |
++------+------------+-------------+-------------+
+| 1994 | 849.2      | 1945.0      | 2794.2      |
++------+------------+-------------+-------------+
+| 1995 | 971.5      | 1482.1      | 2453.6      |
++------+------------+-------------+-------------+
+| 1996 | 183.8      | 840.0       | 1023.8      |
++------+------------+-------------+-------------+
+| 1997 | 1080.6     | 1317.4      | 2398.0      |
++------+------------+-------------+-------------+
+| 1998 | 297.0      | 132.7       | 429.7       |
++------+------------+-------------+-------------+
+| 1999 | 539.4      | 809.2       | 1348.6      |
++------+------------+-------------+-------------+
+| 2000 | 483.8      | 1154.4      | 1638.2      |
++------+------------+-------------+-------------+
+| 2001 | 360.8      | 639.8       | 1000.6      |
++------+------------+-------------+-------------+
+| 2002 | 1341.6     | 1216.0      | 2557.6      |
++------+------------+-------------+-------------+
+| 2003 | 193.7      | 417.9       | 611.6       |
++------+------------+-------------+-------------+
+| 2004 | 882.8      | 1394.1      | 2276.9      |
++------+------------+-------------+-------------+
+| 2005 | 1037.9     | 1007.7      | 2045.6      |
++------+------------+-------------+-------------+
+| 2006 | 819.8      | 513.1       | 1332.9      |
++------+------------+-------------+-------------+
+| 2007 | 943.4      | 744.8       | 1688.2      |
++------+------------+-------------+-------------+
+| 2008 | 846.8      | 648.2       | 1495.0      |
++------+------------+-------------+-------------+
+| 2009 | 541.3      | 440.2       | 981.5       |
++------+------------+-------------+-------------+
+| 2010 | 290.5      | 435.0       | 725.5       |
++------+------------+-------------+-------------+
+| 2011 | 546.8      | 958.0       | 1504.8      |
++------+------------+-------------+-------------+
+| 2012 | 272.9      | 710.1       | 983.0       |
++------+------------+-------------+-------------+
+| 2013 | 246.0      | 691.0       | 937.0       |
++------+------------+-------------+-------------+
+| 2014 | 353.0      | 729.4       | 1082.4      |
++------+------------+-------------+-------------+
+| 2015 | 293.0      | 633.0       | 926.0       |
++------+------------+-------------+-------------+
+| 2016 | 154.0      | 243.4       | 397.4       |
++------+------------+-------------+-------------+
+| 2017 | 179.0      | 529.7       | 708.7       |
++------+------------+-------------+-------------+
+| 2018 | 220.0      | 751.1       | 971.1       |
++------+------------+-------------+-------------+
+| 2019 | 195.0      | 524.9       | 719.9       |
++------+------------+-------------+-------------+
+| 2020 | 0.0        | 271.9       | 271.9       |
++------+------------+-------------+-------------+
+
+\vspace{0.5cm}
+
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura10.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 10}. Desembarques anuales y semestrales para Chile, Perú y Total del stock de anchoveta distribuido entre 16°LS - 24°LS (1986 - 2020). Los puntos amarillos representan la cuota chilena. En el panel superior (a) se muestra el desembarque en escala anual y en el panel inferior (b) en escala semestral.
+\normalsize 
+\vspace{0.5cm}
+```
+#### Descarte
+
+incorporar información....!!!!
+
+#### b) Composición de longitud de la captura y cruceros
+
+\quad
+
+El número de individuos pescados a la talla en las capturas totales (COLOCAP) se elabora en base mensual tanto de la pesquería del sur de Perú como del norte de Chile. En Perú la expansión de las tallas a las capturas se realiza en base diaria y por puerto, en la pesquería del norte de Chile se realiza en base mensual y por macrozona hasta el 2007. Desde el 2008 se construyen por viaje dentro de cada macrozona, donde las composiciones de tallas muestrales son ponderadas por las capturas. Las macrozonas son:
+
+-   Arica: Límite -- 19º30'LS
+-   Iquique: 19º30'LS -- 21º30'LS
+-   Antofagasta: 21º30'LS -- 24º00'LS
+
+Para la pesquería chilena cubren el período comprendido entre el primer semestre de 1986 y el segundo semestre 2020, y para la peruana solo hasta el segundo semestre del 2019. Los COLOCAP semestrales de ambas pesquerías muestran diferencias, capturándose en general ejemplares de menor talla en la pesquería peruana, según puede apreciarse en la **Figura 11** siendo esto más evidente desde el 2002. Se observa que en algunos de los años anteriores al 2002 se capturaron ejemplares de menor talla en el norte de Chile, comparado con el sur de Perú, y en otros la composición de tallas es muy similares. Sin embargo, desde el 2002 al 2011 de manera sistemática se capturaron ejemplares más pequeños en la pesquería peruana. Estas diferencias justifican el uso de un modelo que discrimine por flotas. Sin embargo, desde el 2015 las tallas medias disminuyen fuertemente, acercándose a los 11 cm en el 2019.
+
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura11.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 11}. Proporción por tallas de las capturas semestrales en las pesquerías de anchoveta del sur de Perú y norte de Chile (1986 – 2020).
+\normalsize 
+\vspace{0.5cm}
+```
+Para la pesquería chilena se analizan los datos de los muestreos biológicos efectuados por el programa de seguimiento de la pesquería desarrollado en el norte de Chile. Los resultados muestran la proporción en la captura de cuatro categorías de tallas a desde el 2001 hasta el 2019 (**Figura 12**), desde el 2001 hay una predominancia de individuos de 14 a 16 cm de longitud y una baja incidencia de individuos de 12 a 13.5 cm, alcanzando sobre el 40% en el 2004 y 2007. Desde del 2007 en adelante este porcentaje aumenta considerablemente y se observa en una mayor frecuencia, llegando alcanzar valores por sobre el 80% en el 2011. Y desde el 2015 dominan gran parte de la serie y se observa una participación significativa de individuos menores a los 11.5 cm de longitud. Durante el 2020 dominan las tallas de 12 a 13.5 cm de longitud, con una alta participación de tallas menores a los 11.5 cm. Esta tendencia en la disminución de las tallas durante los últimos años también es apreciable en la talla media (**Figura 13**). En el 2014 se observa una disminución de la talla media, hasta alcanzar los 10 cm a comienzos del 2016. Luego, la talla media se mantiene en torno a los 12 a 14 cm y en el 2019 la talla media cae hasta los 10 cm y se mantiene en torno a los 12 cm hacia el final del 2019 y durante el 2020.
+
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura12.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 12}. Participación de las tallas en las capturas de la flota chilena por intervalo de talla desde el 2001 hasta el 2019. El color azul (>16.5 cm), color verde (14 a 16 cm), color rojo (12 a 13.5 cm) y color negro (<=11.5 cm).
+\normalsize 
+\vspace{0.5cm}
+```
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura13.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 13}. Serie temporal de la talla media en las capturas de la flota chilena desde el 2001 hasta el 2020.
+\normalsize 
+\vspace{0.5cm}
+```
+#### c) Pesos y madurez a la talla
+
+\quad
+
+Se utiliza una relación longitud-peso desde 1986 hasta el 2000. Esta se obtuvo como promedio para el período 1986-2000 y considera la zona norte de Chile (XV-II Regiones). Los coeficientes de la relación son: a= 0.00625 y b= 3.02561. Y para los años 2001 hasta 2019 se utiliza una relación longitud-peso variable por semestre ajustada mediante modelos no lineales mixtos (Pinheiro y Bates, 2000), donde los parámetros a y b de la relación longitud-peso son considerados como efectos aleatorios (**Tabla 4** y **Figura 14**). En cuanto a la madurez, se utiliza la ojiva a la talla obtenida por Martínez *et al*. (2009), cuya talla media de madurez corresponde a 11.5 cm en longitud total. La función de proporción de individuos maduros a la talla se muestra en la **Figura 15**.
+
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura14.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 14}. Relación longitud-peso variable por semestres desde el 2001 hasta el 2020. Cada curva (línea azul) fue ajustada por medio de modelos mixtos con efectos aleatorios.
+\normalsize 
+\vspace{0.5cm}
+```
+\pagebreak
+
+```{=tex}
+\small
+\begin{center} 
+\textbf{Tabla 4.}
+\end{center}
+\begin{center} 
+\vspace{-0.2cm} Parámetros a y b de la relación longitud-peso estimados por modelo no lineales mixtos.
+\end{center}
+ \normalsize
+ \vspace{-0.2cm}
+```
+| Semestre |     $a$     |    $b$   |
+|:--------:|:-----------:|:--------:|
+|  2001.0  | 0.007810934 | 2.953925 |
+|  2001.5  | 0.011107999 | 2.833511 |
+|  2002.0  | 0.006689012 | 2.996512 |
+|  2002.5  | 0.007180881 | 2.980155 |
+|  2003.0  | 0.011145474 | 2.832652 |
+|  2003.5  | 0.012501097 | 2.769733 |
+|  2004.0  | 0.008088254 | 2.931933 |
+|  2004.5  | 0.005530761 | 3.077420 |
+|  2005.0  | 0.008281394 | 2.931933 |
+|  2005.5  | 0.014549947 | 2.726752 |
+|  2006.0  | 0.013851617 | 2.744509 |
+|  2006.5  | 0.012773019 | 2.768485 |
+|  2007.0  | 0.007564375 | 2.961119 |
+|  2007.5  | 0.010773553 | 2.832238 |
+|  2008.0  | 0.011974593 | 2.785081 |
+|  2008.5  | 0.012830483 | 2.761722 |
+|  2009.0  | 0.005619524 | 3.065078 |
+|  2009.5  | 0.009529009 | 2.856279 |
+|  2010.0  | 0.005298669 | 3.074377 |
+|  2010.5  | 0.011398358 | 2.812732 |
+|  2011.0  | 0.007784679 | 2.943700 |
+|  2011.5  | 0.005732487 | 3.056045 |
+|  2012.0  | 0.008782683 | 2.889336 |
+|  2012.5  | 0.006577518 | 3.008842 |
+|  2013.0  | 0.003655199 | 3.227376 |
+|  2013.5  | 0.007650149 | 2.994775 |
+|  2014.0  | 0.007650149 | 2.957364 |
+|  2014.5  | 0.008815520 | 2.914416 |
+|  2015.0  | 0.002972675 | 3.303684 |
+|  2015.5  | 0.004319944 | 3.160051 |
+|  2016.0  | 0.004162371 | 3.188746 |
+|  2016.5  | 0.005994121 | 3.037969 |
+|  2017.0  | 0.004849688 | 3.120800 |
+|  2017.5  | 0.006904577 | 3.010688 |
+|  2018.0  | 0.002855162 | 3.338865 |
+|  2018.5  | 0.004324776 | 3.165825 |
+|  2019.0  | 0.005989567 | 3.015624 |
+|  2019.5  | 0.011380066 | 2.781900 |
+|  2020.0  | 0.008502352 | 2.868338 |
+|  2020.5  | 0.003946365 | 3.224859 |
+
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura15.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 15}. Ojiva de madurez sexual a la talla para la anchoveta obtenida de Martínez \textit{et al}. (2009).
+\normalsize 
+\vspace{0.5cm}
+```
+#### d) Crecimiento
+
+\quad
+
+Como fue mencionado en el **Punto 2.6**, en relación de los nuevos antecedentes sobre el crecimiento de la anchoveta del norte de Chile (Plaza *et al*., 2017), señalan una dinámica más rápida que la establecida para las especies de Engraulis de otros ecosistemas de surgencia de borde oriental tales como Butler (1989), Waldron et al. (1989 y 1992), Melo (1984) y Prosch (1986). Estos resultados señalan un coeficiente de crecimiento de $k$ = 1.96 año^-1^, $t_0$ = 0.013 año y $L_{inf}$ = 19.85 cm. \vspace{0.5cm}
+
+Sin embargo, durante el Taller Benchmark realizado en julio del 2019 se revisaron los diferentes casos de crecimiento, tanto los que incorporan la estacionalidad en el crecimiento como aquellos basados en el modelo de von Bertalanffy tradicional. Los resultados indican que el modelo tradicional de von Bertalanffy no difiere mucho de los modelos estacionales (**Figura 16**) y que el modelo tradicional de crecimiento fue el que mejor se ajustó a los datos de la evaluación durante el Taller Benchmark (**Tabla 5**). \vspace{0.5cm}
+
+```{=tex}
+\small
+\begin{center} 
+\textbf{Tabla 5.}
+\end{center}
+\begin{center} 
+\vspace{-0.2cm} Parámetros de crecimiento estimados del modelo de von Bertalanffy.
+\end{center}
+ \normalsize
+ \vspace{-0.2cm}
+```
+| $t_0$ (año) | $k$ (año-1) | $L_{inf}$ (cm) |
+|:-----------:|:-----------:|:--------------:|
+|     0.01    |     2.12    |      17.55     |
+
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura16.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 16}. Función de crecimiento de von Bertalanffy tradicional y estacional para la anchoveta del sur de Perú y norte de Chile.
+\normalsize 
+\vspace{0.5cm}
+```
+#### e) Mortalidad natural
+
+\quad
+
+La mortalidad natural fue calculada a través de diferentes modelos bio-analógicos existentes en la literatura según los parámetros de crecimiento anteriormente señalados (**Tabla 6**). Estos modelos entregan un valor superior a dos, para lo cual se utilizó un valor de $M=1.1$ (semestre-1) para la tasa de mortalidad natural ($M$), valor usado como constante para todas las edades y años \vspace{0.5cm}
+
+```{=tex}
+\small
+\begin{center} 
+\textbf{Tabla 6.}
+\end{center}
+\begin{center} 
+\vspace{-0.2cm} Métodos empíricos para estimar la mortalidad natural.
+\end{center}
+ \normalsize
+ \vspace{-0.2cm}
+```
++------------------------------+------------+------------+------------+
+| Método/Edad teórica máxima   |            | 1          | 2          |
++==============================+:==========:+:==========:+:==========:+
+| Rikhter y Efanov (1976)      | 2.78       |            |            |
++------------------------------+------------+------------+------------+
+| Pauly (1980)                 | 1.74       |            |            |
++------------------------------+------------+------------+------------+
+| Taylor (1958, 1969)          |            | 2.16       | 1.99       |
++------------------------------+------------+------------+------------+
+| Hoening (1983)               |            | 2.16       | 2.14       |
++------------------------------+------------+------------+------------+
+| Alverson y Carney (1975)     |            | 2.33       | 2.28       |
++------------------------------+------------+------------+------------+
+| Alagaraja (1984)             |            | 2.33       | 2.30       |
++------------------------------+------------+------------+------------+
+| Hewitt y Hoening (2005)      |            | 2.14       | 2.11       |
++------------------------------+------------+------------+------------+
+| **Promedio**                 |            | **2.22**   | **2.17**   |
++------------------------------+------------+------------+------------+
+
+#### f) Indicadores de abundancia independientes de la pesquería
+
+\quad
+
+Las estimaciones actualizadas de biomasa desovante al 2020 y disponible para la evaluación de stock se entregan en la **Tabla 7**. Para propósitos de la evaluación de stock, el índice de biomasa desovante utilizada corresponde a la serie con el método "Lo" (Claramunt *et al*., 2014). Sin embargo, se muestra la serie de las estimaciones de biomasa desovante mediante el método de "multinomial" para fines comparativos. En el 2014 la estimación de biomasa desovante alcanzó un valor de 399 mil toneladas. En el 2015 la estimación de biomasa desovante subió levemente a las 436 mil toneladas, luego en el 2016 fue de 461 mil toneladas y en el 2017 fue de 201 mil toneladas, lo que representa una disminución del 56% con respecto al 2016. En el 2018 la biomasa desovante estimada aumento a las 799 mil toneladas y en el 2019 esta fue de 645 mil toneladas. Sin embargo, en el 2020 este valor alcanzó las 297 mil toneladas. En la Tabla 7 se muestran los índices provenientes de las evaluaciones hidroacústicas por año e incluye: i) la biomasa total de Perú realizados durante los años 1990 al 2020 y la biomasa total para el norte de Chile (Castillo *et al*., 2009, 2010, 2011, 2012, 2013). Los cruceros peruanos fueron realizados durante el primer y segundo semestre de cada año en que se tiene dicha información en Perú. Para el norte de Chile se incluye también la estructura de tamaños disponible para la abundancia total estimada durante los años 2000-2002 y 2007-2020 y la fecha en que se desarrolló el crucero acústico. La actualización de los registros peruanos se efectuó a través de los Talleres IMARPE-IFOP de Evaluación Conjunta del Stock de Anchoveta del Sur de Perú y Norte de Chile, el último realizado entre el 3 y 7 de diciembre del 2018 en el Club Alemán, Valparaíso, Chile.
+
+En enero 2015, el IMARPE reportó en la zona sur del Perú una biomasa total de 534 mil toneladas, de las cuales el 94% estaba compuesto por biomasa de reclutas (Oficio PRODUCE 100-556-2014), individuos menores a 11.5 cm. Asimismo, poco antes y en diciembre del 2014 IFOP había registrado una biomasa de 410 mil toneladas cuya incidencia de reclutas alcanzaba el 60% en peso. Y para el 2016 se estima una biomasa total de 307 mil toneladas para el norte de Chile y en el 2017 este valor fue de 105 mil toneladas. Sin embargo, este valor sube drásticamente a 793 mil toneladas de biomasa total en el 2018, lo que representa un aumento de más de seis veces de magnitud. Pero en el 2019 este valor cae drásticamente a las 230 mil toneladas. Y en el 2020, sube levemente a las 264 mil toneladas.
+
+```{=tex}
+\vspace{0.5cm}
+\small
+\begin{center} 
+\textbf{Tabla 7.}
+\end{center}
+\begin{center} 
+\vspace{-0.2cm} Biomasa estimada a través del Método de Producción de Huevos (MPH) y cruceros acústicos del stock de anchoveta del sur de Perú y norte de Chile.
+\end{center}
+ \normalsize
+ \vspace{-0.2cm}
+```
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| Año  | MPH             | CV (%) | MPH           | CV (%) | Acústica Total Perú (t) | Acústica Total Chile (t) |
+|      |                 |        |               |        |                         |                          |
+|      | Multinomial (t) |        | Modelo Lo (t) |        |                         |                          |
++:====:+:===============:+:======:+:=============:+:======:+:=======================:+:========================:+
+| 1990 | \-              | \-     | \-            | \-     | 187.000                 | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 1991 | \-              | \-     | \-            | \-     | 558.000                 | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 1992 | 280.000         | 32.5   | 314.232       | 32.3   | 482.000                 | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 1993 | \-              | \-     | \-            | \-     | 893.000                 | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 1994 | \-              | \-     | \-            | \-     | 744.000                 | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 1995 | 218.000         | \-     | 465.696       | 31.6   | 2.667.000               | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 1996 | 288.000         | \-     | 253.356       | 40.5   | 648.000                 | 385.881                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 1997 | 423.654         | 31.7   | 744.838       | 34.5   | 745.000                 | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 1998 | \-              | \-     | \-            | \-     | 1.306.000               | 957.868                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 1999 | 751.810         | 63.1   | 973.292       | 64.5   | 178.000                 | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2000 | 737.217         | 28.9   | 608.087       | 29.0   | 522.000                 | 959.791                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2001 | 193.857         | 141.5  | 765.885       | 142.7  | 199.000                 | 317.977                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2002 | 1.283.127       | 23.4   | 1.503.911     | 24.0   | 1.008.000               | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2003 | 477.004         | 57.3   | 1.238.731     | 53.6   | 839.000                 | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2004 | 757.385         | 40.6   | 668.979       | 42.5   | 682.000                 | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2005 | 977.285         | 35     | 1.520.754     | 33.8   | 1.375.000               | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2006 | 953.003         | 37.8   | 1.081.156     | 40.9   | 283.000                 | \-                       |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2007 | 202.000         | 71.2   | 240.727       | 78.2   | 1.318.000               | 713.012                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2008 | 141.270         | 69.4   | 532.132       | 60.0   | 554.000                 | 135.550                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2009 | 215.896         | 29.9   | 287.916       | 252.4  | 425.000                 | 456.341                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2010 | \-              | \-     | \-            | \-     | 1.274.000               | 253.861                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2011 | 673.857         | 27.3   | 795.056       | 28.5   | 613.000                 | 170.405                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2012 | 427.070         | 32     | 672.077       | 33.9   | 2.271.000               | 299.520                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2013 | 550.629         | 53.9   | 520.336       | 52.4   | 2.013.000               | 163.002                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2014 | 437.627         | 67.8   | 399.605       | 65.8   | 884.000                 | 410.660                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2015 | 525.087         | 57.9   | 436.014       | 51.6   | 1.097.000               | 285.644                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2016 | 342.000         |        | 461.000       | 167.4  | 370.000                 | 307.129                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2017 | 222.903         |        | 201.178       | 86.5   | 1.487.000               | 105.841                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2018 |                 |        | 799.400       | 48.7   | 1.156.000               | 793.242                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2019 |                 |        | 645.891       | 91.3   | 2.968.000               | 230.206                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+| 2020 |                 |        | 297.628       | 153.1  | 2.035.000               | 264.438                  |
++------+-----------------+--------+---------------+--------+-------------------------+--------------------------+
+
+La **Tabla 8** muestra un resumen de la temporalidad de las evaluaciones directas llevadas a cabo en el norte de Chile. Anterior al año 2007 los cruceros se realizaban en distintos meses, ya que el criterio era evaluar el máximo reclutamiento basado en el máximo desove a fines de agosto (**Figura 2**). Posterior al año 2008, se fijó la fecha para el crucero del norte de Chile. Las estructuras de tallas de los cruceros acústicos de anchoveta están disponibles desde el 2000 hasta 2002 y desde el 2007 hasta el 2020. Esta información es relevante dado por la presencia de individuos de menor tamaño (individuos desde los 2.5 cm), dando cuenta de los reclutas que están ingresando a la pesquería, y por el extenso período que abarca esta información (**Figura 17**).
+
+```{=tex}
+\small
+\begin{center} 
+\textbf{Tabla 8.}
+\end{center}
+\begin{center} 
+\vspace{-0.2cm} Período de realización de los cruceros hidroacústicos de anchoveta de la zona norte de Chile.
+\end{center}
+ \normalsize
+ \vspace{-0.2cm}
+```
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura17.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 17}. Proporción por tallas de la abundancia del crucero acústico en el norte de Chile (2000-2001 y 2007- 2020).
+\normalsize 
+\vspace{0.5cm}
+```
+La **Figura 18** muestra los índices utilizados en la actual evaluación de stock al segundo semestre del 2020. En el caso de la biomasa total acústica del Perú, representa la fracción correspondiente a la región sur de Perú (16-18º21'L.S.). En el caso de la biomasa acústica de Chile representa la totalidad de la biomasa estimada desde los 18º21'-24ºL.S. Las estimaciones hechas a fines de primavera de los años 2014, 2015 y 2016 se han registrado altos valores, con un promedio de 334 ($\pm66$) mil toneladas, un gran porcentaje de estas biomasas corresponde a la fracción juvenil del stock. Durante el 2017 este valor cae a 105 mil toneladas para luego expandirse a 793 mil toneladas durante el 2018, valor más alto de la serie histórica. Sin embargo, este valor cae a 230 mil toneladas en el 2019 y se recupera levemente en el 2020. Por otra parte, la biomasa desovante estimada en el segundo semestre del 2017 alcanzó un valor de 201 mil toneladas, el valor más bajo de toda la serie histórica estimada por el método de producción diaria de huevos para la anchoveta del norte de Chile. Pero la estimación hecha en el 2018, la biomasa desovante alcanzó un valor de 799 mil toneladas, mostrando un aumento de casi cuatro veces con respecto al valor observado en el 2017 (**Figura 18c**). Sin embargo, este valor cae levemente en el 2019 a 651 mil toneladas y más aún en el 2020 a 297 mil toneladas, valor muy cerano al mínimo del 2017.
+
+```{=tex}
+\begin{center}
+\includegraphics[width=1\textwidth]{Figuras/figura18.pdf}
+\end{center}
+```
+```{=tex}
+\small
+\textbf{Figura 18}. Índices considerados en la evaluación del stock de anchoveta del sur de Perú y norte de Chile al segundo semestre del 2020, en a) la biomasa total acústica del Perú, b) la biomasa total acústica de Chile y c) biomasa desovante estimada a partir del MPH del norte de Chile.
+\normalsize 
+\vspace{0.5cm}
+```
+\pagebreak
 
 ## 4.4. Objetivo específico 4.
 
 *"Informar el avance del Programa de Mejoramiento Continuo de la Calidad en la Asesoría Científica (PMCCAC) realizado durante el presente estudio, respecto al cumplimiento de recomendaciones formuladas en procesos de RPEI y priorizadas por el CCT, cuando corresponda."* \vspace{-0.2cm}
 
-### Recomendaciones del CCT-PP
+### 4.4.2. Mejoras realizadas al modelo de evaluación de stock
+
+La principal mejora realizada al modelo de evaluación de stock para la anchoveta del sur de Perú y norte de Chile fue realizada en el taller de revisión por pares entre los días 11 al 13 de marzo del 2019 por el Dr. James Ianelli, experto del centro de ciencia pesquera de Alaska de la NOAA (National Oceanic and Atmospheric Administration). El taller dio cuenta de la revisión de los datos usados en la evaluación de stock, el crecimiento de la anchoveta basado en micro incrementos diarios y el supuesto de mortalidad natural usado, las hipótesis estructurales que definen el modelo conceptual de la pesquería de la anchoveta del sur de Perú y norte de Chile. Además, se revisó la dinámica poblacional, los modelos de los procesos y error, la configuración del modelo de evaluación. Y finalmente, se revisaron los ajustes del modelo de evaluación a los datos usados, las variables poblacionales estimadas por el modelo, el desempeño del modelo, análisis retrospectivo, puntos biológicos de referencia y estatus del recurso estudiado. Finalmente, durante los días 8 al 12 de julio del 2019 se realizó el Taller "Benchmark Stock Assessment" para la anchoveta del sur de Perú y norte de Chile por la Dra. Carolina Minte-Vera, experta de la Comisión Inter-Americana del Atún Tropical (IATTC) con sede en la Jolla, California, USA. Este taller tuvo la finalidad de incorporar las sugerencias del Dr. Ianelli para mejorar el modelo de evaluación de stock antes de que el modelo pueda ser usado con fines para el manejo pesquero.
+
+Posterior a este taller, se ha continuado haciendo mejoras al modelo de evaluación, primero, la incorporación de una selectividad tipo doble-normal, con la capacidad de convertirse en logística en caso que los datos en las estructuras de tallas lo indiquen, dado el valor de la varianza asignado al lado izquierdo de esta ecuación asignado por el modelo. Esta mejora permite lidiar con las altas mortalidades por pesca que se observan en el modelo logístico (las que alcanzan el límite superior establecido por el modelo) y que repercuten en el análisis retrospectivo cuando se registran las altas abundancias totales estimadas a través del método acústico y las bajas capturas que se registra durante el año 2016. Segundo, otra mejora realizada que no tiene relación con el código del modelo de evaluación pero sí con el tratamiento de la información utilizada en el modelo de evaluación, es la incorporación de la relación longitud-peso variable por semestre desde el año 2001 hasta el 2020 (**Figura 14**), debido principalmente a la variabilidad que se han observado en las estructuras de tallas de las capturas (**Figura 12** y **13**) durante los últimos veinte años, y más aún durante los últimos cinco años, donde la talla media ha alcanzado valores por debajo de los 12 cm de longitud total, lo cual implica un menor peso en los individuos capturados.
+
+### 4.4.3. Avances en la reducción de brechas
+
+El gran desafío que presentan los pequeños peces pelágicos a nivel mundial, y más aún en la anchoveta de la zona norte de Chile dado su rápido crecimiento y alta mortalidad natural, es intentar predecir los reclutamientos futuros durante la proyección del stock. Actualmente, la elección de los reclutamientos futuros para cada semestre, se seleccionan según la historia de los reclutamientos promedios ocurridos durante el primer y segundo semestre por separado (**Figura 7**). La principal característica de esta metodología es que los reclutamientos futuros son tratados como eventos independentes.
