@@ -150,7 +150,7 @@ Una de las principales características que presentan los pequeños peces pelág
 
 ## 2.8. Ciclo de vida de la anchoveta
 
-Considerando la información previamente señalada en el punto 2, en el sentido de: i) una distribución principalmente costera, donde el 70% de las capturas se desarrolla dentro de las primeras 20 millas náuticas en los últimos diez años, ii) con un desove que ocurre en un extenso periodo que va desde primavera hasta el verano, con dos máximos de intensidad, uno que ocurre desde agosto a septiembre y el otro desde diciembre a enero, es decir, dos reclutamientos al año iii) una alimentación basada principalmente en el fitoplancton y secundariamente en el zooplancton, donde los componentes de mayor importancia relativa en la dieta son las diatomeas en el fitoplancton y los copépoda en el zooplancton, con un claro patrón oportunista y depredador generalista, iv) los nuevos antecedentes que dan cuenta de un coeficiente de crecimiento de la ecuación de von Bertalanffy de k = 1-2 año^-1^, donde al año de vida alcanza una longitud media de 16.3 cm y v) una mortalidad natural de 2.2 año^-1^. Entonces, en base a estos antecedentes expuestos se plantea el siguiente modelo conceptual de la historia de vida de la anchoveta (*Engraulis ringens*) para el sur de Perú y norte de Chile (**Figura 9**).
+Considerando la información previamente señalada en el punto 2, en el sentido de: i) una distribución principalmente costera, donde el 70% de las capturas se desarrolla dentro de las primeras 20 millas náuticas en los últimos diez años, ii) con un desove que ocurre en un extenso periodo que va desde primavera hasta el verano, con dos máximos de intensidad, uno que ocurre desde agosto a septiembre y el otro desde diciembre a enero, es decir, dos reclutamientos al año iii) una alimentación basada principalmente en el fitoplancton y secundariamente en el zooplancton, donde los componentes de mayor importancia relativa en la dieta son las diatomeas en el fitoplancton y los copépoda en el zooplancton, con un claro patrón oportunista y depredador generalista, iv) los nuevos antecedentes que dan cuenta de un coeficiente de crecimiento de la ecuación de von Bertalanffy de k = 1-2 año^-1^, donde al año de vida alcanza una longitud media de 16.3 cm y v) una mortalidad natural de 2.2 año^-1^. Entonces, en base a estos antecedentes expuestos se plantea el siguiente modelo conceptual de la historia de vida de la anchoveta (*Engraulis ringens*) para el sur de Perú y norte de Chile (**Figura 5**).
 
 ```{=tex}
 \begin{center}
@@ -159,15 +159,13 @@ Considerando la información previamente señalada en el punto 2, en el sentido 
 ```
 ```{=tex}
 \small
-\textbf{Figura 9}. Diagrama del modelo conceptual planteado para la anchoveta (\textit{Engraulis ringens}) del sur de Perú y norte de Chile (XV-II Regiones).
+\textbf{Figura 5}. Diagrama del modelo conceptual planteado para la anchoveta (\textit{Engraulis ringens}) del sur de Perú y norte de Chile (XV-II Regiones).
 \normalsize 
 \vspace{0.5cm}
 ```
 ## 2.9. Pesquería
 
-La anchoveta es el recurso objetivo de la pesquería pelágica de cerco de la zona norte de Chile, localizada en la Región de Arica y Parinacota, Región de Tarapacá y la Región de Antofagasta. La pesquería de anchoveta del norte de Chile (18º20'LS - 24º00'LS) ha reportado en promedio 1.271 ($\pm$ 713 mil) millones de toneladas anuales de desembarque desde el año 1984 hasta el 2017, lo que representa una alta importancia a la economía regional y de empleos directos e indirectos, con el consiguiente beneficio económico y social. Los desembarques de la anchoveta en el norte de Chile han presentado fuertes variaciones en la historia de la pesquería, en particular, las capturas fueron bajas en el 2009 y 2010 alrededor de un 46% bajo el promedio 1984-2012 de 809 mil toneladas. Esta situación también se observó en la pesquería del sur del Perú donde en particular los años 2010 y 2013 se observó una disminución de las capturas de más de un 47% bajo el promedio 1984-2012 de 552 mil toneladas. A pesar de que el desembarque de ambos países sufrió un incremento relativo en el año 2011 (1.5 millones de toneladas), en el año 2012 y 2013 se observó una disminución del desembarque total respecto al 2011. Durante el año 2014 (1 millón de toneladas) se observó un repunte del desembarque respecto de semestres equivalentes en años anteriores. En el 2015, el desembarque disminuye leventemente para alcanzar las 926 mil toneladas, pero en el 2016 se registró el valor más bajo durante los últimos diecisiete años, con un registro cercano a las 397 mil toneladas totales (**Figura 5**). Durante el 2017 este valor aumenta por sobre las 700 mil toneladas anuales para el stock compartido de anchoveta, sin embargo, en el 2018 este valor aumenta hasta las 971 mil toneladas anuales, superando la cuota de captura en 211 mil toneladas. En el 2019 este valor alcanzo las 719 mil toneladas, valor por debajo de la cuota correspondiente a 760 mil toneladas. Y en el 2020, este valor cae a las 271 mil toneladas.
-
-Estacionalmente, el análisis promedio histórico (2008-2012) de las capturas de anchoveta señalan que éstas se concentran en los siete primeros meses del año, aportando con el 87% del volumen del año, situación distinta a lo observado en los últimos años donde éstos se han focalizado en sólo dos a tres meses. Al respecto, en el 2014 el 89% de los desembarques se registraron en abril y mayo, mientras que en el 2015 el 78% se concentró en mayo y junio. En el 2016 el 73% de las capturas se focalizó en mayo y junio, siendo nulos a partir de septiembre para la región sur del Perú. En el norte de Chile, la captura de anchoveta se concentra en los meses de marzo (2014) y abril (2015). En cambio, en el año 2016 el 77% de las capturas se concentraron en cuatro meses (abril-julio), siendo junio el valor máximo. En el 2017, el 60% de las capturas se concentraron en tres meses (feb-abr), con marzo con el mes de máxima captura.
+La anchoveta es el recurso objetivo de la pesquería pelágica de cerco de la zona norte de Chile, localizada en la Región de Arica y Parinacota, Región de Tarapacá y la Región de Antofagasta. La pesquería de anchoveta del norte de Chile (18º20'LS - 24º00'LS) ha reportado en promedio 1.271 ($\pm$ 713 mil) millones de toneladas anuales de desembarque desde el año 1984 hasta el 2017, lo que representa una alta importancia a la economía regional y de empleos directos e indirectos, con el consiguiente beneficio económico y social. Los desembarques de la anchoveta en el norte de Chile han presentado fuertes variaciones en la historia de la pesquería, en particular, las capturas fueron bajas en el 2009 y 2010 alrededor de un 46% bajo el promedio 1984-2012 de 809 mil toneladas. Esta situación también se observó en la pesquería del sur del Perú donde en particular los años 2010 y 2013 se observó una disminución de las capturas de más de un 47% bajo el promedio 1984-2012 de 552 mil toneladas. A pesar de que el desembarque de ambos países sufrió un incremento relativo en el año 2011 (1.5 millones de toneladas), en el año 2012 y 2013 se observó una disminución del desembarque total respecto al 2011. Durante el año 2014 (1 millón de toneladas) se observó un repunte del desembarque respecto de semestres equivalentes en años anteriores. En el 2015, el desembarque disminuye leventemente para alcanzar las 926 mil toneladas, pero en el 2016 se registró el valor más bajo durante los últimos diecisiete años, con un registro cercano a las 397 mil toneladas totales (**Figura 6**). Durante el 2017 este valor aumenta por sobre las 700 mil toneladas anuales para el stock compartido de anchoveta, sin embargo, en el 2018 este valor aumenta hasta las 971 mil toneladas anuales, superando la cuota de captura en 211 mil toneladas. En el 2019 este valor alcanzo las 719 mil toneladas, valor por debajo de la cuota correspondiente a 760 mil toneladas. Y en el 2020, este valor cae a las 271 mil toneladas.
 
 ```{=tex}
 \begin{center}
@@ -176,10 +174,12 @@ Estacionalmente, el análisis promedio histórico (2008-2012) de las capturas de
 ```
 ```{=tex}
 \small
-\textbf{Figura 5}. Desembarques (t) por país para el stock de anchoveta del sur de Perú y norte de Chile. Los puntos rojos indican las cuotas de capturas asignadas para esta pesquería.
+\textbf{Figura 6}. Desembarques (t) por país para el stock de anchoveta del sur de Perú y norte de Chile. Los puntos rojos indican las cuotas de capturas asignadas para esta pesquería.
 \normalsize 
 \vspace{0.5cm}
 ```
+Estacionalmente, el análisis promedio histórico (2008-2012) de las capturas de anchoveta señalan que éstas se concentran en los siete primeros meses del año, aportando con el 87% del volumen del año, situación distinta a lo observado en los últimos años donde éstos se han focalizado en sólo dos a tres meses. Al respecto, en el 2014 el 89% de los desembarques se registraron en abril y mayo, mientras que en el 2015 el 78% se concentró en mayo y junio. En el 2016 el 73% de las capturas se focalizó en mayo y junio, siendo nulos a partir de septiembre para la región sur del Perú. En el norte de Chile, la captura de anchoveta se concentra en los meses de marzo (2014) y abril (2015). En cambio, en el año 2016 el 77% de las capturas se concentraron en cuatro meses (abril-julio), siendo junio el valor máximo. En el 2017, el 60% de las capturas se concentraron en tres meses (feb-abr), con marzo con el mes de máxima captura.
+
 ## 3.0. Evaluación de stock
 
 Desde el año 2002 y hasta el 2010, la evaluación de stock de anchoveta estuvo basada en un modelo estadístico de captura a la edad (MECE). En octubre del 2010 se introdujo como una alternativa un modelo estadístico de captura a la talla (MECT). Este cambio se debió a las dudas existentes en la asignación de la edad de la anchoveta, y también porque la escala anual no representaba de manera adecuada la dinámica del recurso debido al extenso período de desove, es decir, con un máximo marcado a mediados de agosto y otro de menor intensidad a comienzo del año, **Figura 2**, donde a comienzos del año el índice gonadosomático alcanzan valores mayores 6 y esta característica del desove hace que se observen reclutas durante todo el año.
@@ -192,35 +192,66 @@ Uno de los temas prioritarios durante muchos años ha sido la incertidumbre asoc
 
 Dado el nuevo modelo de crecimiento y la incertidumbre que este género en la evaluación de stock, durante los días 11 al 13 de marzo del 2019 se realizó el taller de revisión por pares del stock de anchoveta del sur de Perú y norte de Chile por el Dr. James Ianelli, experto del centro de ciencia pesquera de Alaska de la NOAA (National Oceanic and Atmospheric Administration). El taller dio cuenta de la revisión de los datos usados en la evaluación de stock, el crecimiento de la anchoveta basado en micro incrementos diarios y el supuesto de mortalidad natural usado, las hipótesis estructurales que definen el modelo conceptual de la pesquería de la anchoveta del sur de Perú y norte de Chile. Además, se revisó la dinámica poblacional, los modelos de los procesos y error, la configuración del modelo de evaluación. Y finalmente, se revisaron los ajustes del modelo de evaluación a los datos usados, las variables poblacionales estimadas por el modelo, el desempeño del modelo, análisis retrospectivo, puntos biológicos de referencia y estatus del recurso estudiado.
 
-Posterior a la revisión por pares hecha por el Dr. Ianelli, durante los días 8 al 12 de julio del 2019 en dependencias del IFOP, Valparaíso, se realizó el taller de sensibilidad de la evaluación de stock frente a diferentes casos de análisis ("benchmark") en la anchoveta del sur de Perú y norte de Chile con la colaboración de la Dra. Carolina Minte-Vera de la Comisión Inter-Americana del Atún Tropical (IATTC), cuyo objetivo fue cooperar en la implementación de las sugerencias de mejoras priorizadas en el proceso de revisión por pares, en caso de que dicho proceso no sugiera un cambio estructural del enfoque de modelación (sólo mejoras al modelo actual). En su defecto, (si se sugiere un cambio estructural del modelo) contribuir en el desarrollo e implementación del modelo base. Como el Dr. Ianelli recomendó hacer mejoras al modelo actual de evaluación y valido el enfoque de modelación empleado en las últimas evaluaciones. En este taller se implementaron las recomendaciones emanadas de la revisión pares y se exploraron otras modificaciones para mejorar el modelo, y el resultado de este taller propuso un modelo base que podría ser usado para el manejo pesquero. Posterior a este taller, se ha continuado mejorando el modelo de evaluación, debido al objetivo de este proyecto, el programa de mejoramiento continuo de la calidad en la asesoría científica, implementando una selectividad de tipo doble-normal, con la capacidad de convertirse en logística en caso que los datos así lo ameritan, esta mejora permite lidiar con las altas mortalidades por pesca que se observan con el modelo logístico (las que alcanzan el límite superior establecido en el modelo) y que repercuten en el análisis retrospectivo cuando se registran las altas abundancias totales estimadas a través del método acústico y las bajas capturas que se registraron durante el periodo 2015-2017. Además, se han introducidos mejoras en cuanto a los datos usados por el modelo de evaluación, como es la incorporación de los pesos medios variables por semestre desde el año 2001 en adelante.
+Posterior a la revisión por pares hecha por el Dr. Ianelli, durante los días 8 al 12 de julio del 2019 en dependencias del IFOP, Valparaíso, se realizó el taller de sensibilidad de la evaluación de stock frente a diferentes casos de análisis ("benchmark") en la anchoveta del sur de Perú y norte de Chile con la colaboración de la Dra. Carolina Minte-Vera de la Comisión Inter-Americana del Atún Tropical (IATTC), cuyo objetivo fue cooperar en la implementación de las sugerencias de mejoras priorizadas en el proceso de revisión por pares, en caso de que dicho proceso no sugiera un cambio estructural del enfoque de modelación (sólo mejoras al modelo actual). En su defecto, (si se sugiere un cambio estructural del modelo) contribuir en el desarrollo e implementación del modelo base. Como el Dr. Ianelli recomendó hacer mejoras al modelo actual de evaluación y valido el enfoque de modelación empleado en las últimas evaluaciones. En este taller se implementaron las recomendaciones emanadas de la revisión pares y se exploraron otras modificaciones para mejorar el modelo, y el resultado de este taller propuso un modelo base que podría ser usado para el manejo pesquero.
+
+Posterior a este taller, se ha continuado mejorando el modelo de evaluación, debido al objetivo de este proyecto, el programa de mejoramiento continuo de la calidad en la asesoría científica, implementando una selectividad de tipo doble-normal, con la capacidad de convertirse en logística en caso que los datos así lo ameritan, esta mejora permite lidiar con las altas mortalidades por pesca que se observan con el modelo logístico (las que alcanzan el límite superior establecido en el modelo) y que repercuten en el análisis retrospectivo cuando se registran las altas abundancias totales estimadas a través del método acústico y las bajas capturas que se registraron durante el periodo 2015-2017. Además, se han introducidos mejoras en cuanto a los datos usados por el modelo de evaluación, como es la incorporación de los pesos medios variables por semestre desde el año 2001 en adelante.
 
 ## 3.1. Estatus
 
-```{r F6_ant, echo=FALSE,fig.height=5,fig.width=8,fig.align="center",fig.path="Figuras/",dev="pdf"}
+La reducción de la mortalidad por pesca observada por debajo del objetivo de manejo durante los últimos años y la tendencia positiva de los reclutamientos los últimos años a partir del año 2017, han llevado a la población a niveles por encima del objetivo de manejo en términos de la biomasa desovante. Al último semestre de la evaluación la biomasa desovante se encuentra un 74% superior al objetivo de manejo, generando con ello un estado de subexplotación en biomasa desovante y con nula probabilidad de sobreexplotación y colapso ($p(BD_{2020.5}<BD_{RMS})=0$) (**Figura 7**).
+
+```{r F6_ant, echo=FALSE,fig.height=6,fig.width=8,fig.align="center",fig.path="Figuras/",dev="pdf"}
 years<-seq(2002.0,2020.5,0.5)
-f_frms<-c(2.42,1.10,1.07,0.11,1.03,1.83,1.06,0.40,2.30,0.53,1.40,0.87,2.05,4.04,1.25,0.34,0.95,0.27,0.52,1.33,1.10,0.40,0.45,0.76,1.03,0.61,0.99,0.82,1.37,0.16,0.81,0.39,0.72,0.32,0.55,0.26,0.26,0.21)
 
-bd_bdrms<-c(0.90,1.39,1.18,1.18,2.03,1.24,1.90,1.92,1.34,1.08,1.95,1.17,0.94,0.33,0.74,1.52,1.61,1.04,2.09,1.61,0.77,1.50,1.44,1.68,1.55,1.21,0.99,0.94,0.63,1.00,1.55,1.14,1.47,1.79,2.17,1.95,1.51,1.73)
+Reclutamientos<-c(451,133,256,425,180,599,269,189,288,486,150,231,74,288,396,172,140,539,94,150,411,85,381,217,190,135,209,40,294,226,113,321,350,394,250,160,233,415)
 
-dataEstatus <- data.frame(years,bd_bdrms,f_frms) %>% mutate(type=c("Estatus")) %>% melt(id.var=c("years","type"))
+F_Frms<-c(2.42,1.10,1.07,0.11,1.03,1.83,1.06,0.40,2.30,0.53,1.40,0.87,2.05,4.04,1.25,0.34,0.95,0.27,0.52,1.33,1.10,0.40,0.45,0.76,1.03,0.61,0.99,0.82,1.37,0.16,0.81,0.39,0.72,0.32,0.55,0.26,0.26,0.21)
 
-ggplot(dataEstatus )+
+BD_BDrms<-c(0.90,1.39,1.18,1.18,2.03,1.24,1.90,1.92,1.34,1.08,1.95,1.17,0.94,0.33,0.74,1.52,1.61,1.04,2.09,1.61,0.77,1.50,1.44,1.68,1.55,1.21,0.99,0.94,0.63,1.00,1.55,1.14,1.47,1.79,2.17,1.95,1.51,1.73)
+
+dataEstatus <- data.frame(years,BD_BDrms,F_Frms) %>% mutate(type=c("Estatus")) %>% melt(id.var=c("years","type"))
+
+datareclu<-data.frame(years,Reclutamientos) %>% mutate(type=c("Reclutamientos")) %>% melt(id.var=c("years","type"))
+
+f1<-ggplot(datareclu)+
+  geom_line(aes(x = years, y = value, colour=variable)) +
+  scale_color_manual(values=c('black')) +
+  #geom_hline(yintercept = mean(datareclu$value),colour=c('green3'))+
+  labs(x = '', y = 'Reclutamientos',fill="",color="") +
+  scale_x_continuous(breaks = seq(from = 2002.0, to = 2020.5, by = 1)) +
+  theme_bw(base_size=10) + 
+  theme(plot.title = element_text(hjust = 0.5),legend.position="right")
+
+f2<-ggplot(dataEstatus )+
   geom_line(aes(x = years, y = value, colour=variable)) +
   scale_color_manual(values=c('black',"red")) +
   geom_hline(yintercept = c(1),colour=c('green3'))+
   labs(x = '', y = 'BD/BDrms  y  F/Frms',fill="",color="") +
   scale_x_continuous(breaks = seq(from = 2002.0, to = 2020.5, by = 1)) +
-  theme_bw(base_size=11) + 
-  theme(plot.title = element_text(hjust = 0.5),legend.position="top")
+  theme_bw(base_size=10) + 
+  theme(plot.title = element_text(hjust = 0.5),legend.position="right")
 
+f1/f2
 ```
 
+```{=tex}
+\small
+\textbf{Figura 7}. Serie de reclutamientos (panel superior) e indicadores del estado del stock ($BD/BD_{RMS}$ y $F/F_{RMS}$) (panel inferior) de anchoveta de la zona norte.
+\normalsize 
+\vspace{0.5cm}
+```
 ## 3.2. Captura Biológicamente Aceptable (CBA)
+
+De acuerdo al ciclo de manejo histórico de esta pesquería, la recomendación de CBA comienza con el cálculo de la CBA inicial que permite al CCT-PP, en septiembre de cada año, para establecer el estatus y recomendar el rango de CBA para el año siguiente. En el mes de diciembre, el crucero de evaluación hidroacústico permite estimar la abundancia y biomasa de reclutas de Chile (fines de año) y Perú (primavera y verano), esta información junto a datos provenientes de la pesquería de Chile y Perú y la estimación de la biomasa desovante a partir del método de producción diaria de huevos, es utilizada para la actualización de la CBA (marzo-abril).
+
+La **Tabla 1** muestra la Captura Biológicamente aceptables recomendadas por el CCT-PP en las distintas etapas de establecimiento de CBA, desembarques registrados y sus diferencias, analizados entre el 2015 y 2016. Al respecto, entre el 2016 y 2019 se mantuvo una CBA *Statu quo* en 760 mil toneladas, en ambos hitos de manejo (CBA inicial y actualizada). El año 2020 se incrementa a 784 mil t, no obstante, para ese año se capturo un 35% de la CBA recomendada.
+
+\pagebreak
 
 ```{=tex}
 \small
 \begin{center} 
-\textbf{Tabla x.}
+\textbf{Tabla 1.}
 \end{center}
 \begin{center} 
 \vspace{-0.2cm} Captura biológicamente aceptables recomendadas por el CCT-PP en las distintas etapas de establecimiento de CBA, desembarques registrado y sus diferencias.
@@ -1419,7 +1450,6 @@ Rt / BD / Ft
 \normalsize 
 \vspace{0.5cm}
 ```
-
 **Tabla x**. CBA semestral proyectada (2020-2021) y anual para el 2021 para el stock de anchoveta dado el criterio del F=Frms y los diferentes escenarios evaluados.
 
 | Escenario | 2020.0 | 2020.5 | 2021.0 | 2021.5 | 2021 total |
@@ -1431,127 +1461,115 @@ Rt / BD / Ft
 
 \pagebreak
 
-### Aporte de cada  grupo de edad a la captura proyectada por semestre
+### Aporte de cada grupo de edad a la captura proyectada por semestre
 
 **Tabla x**. Porcentaje por grupo de edad en la captura proyectada (2020-2021) para el escenario **E1**
 
++-----------+---------------+-----------+-----------+-----------+-----------+
 | Escenario | Edad          | 2020.0    | 2020.5    | 2021.0    | 2021.5    |
-|-----------|---------------|-----------|-----------|-----------|-----------|
-| E1        | 0             | 0.041     | 0.090     | 0.088     | 0.123     |
-| E1        | **1**         | **0.914** | **0.787** | **0.848** | **0.831** |
-| E1        | 2             | 0.043     | 0.120     | 0.059     | 0.042     |
-| E1        | 3             | 0.001     | 0.002     | 0.003     | 0.001     |
-|           | **suma(0:2)** | **0.999** | **0.998** | **0.996** | **0.998** |
++===========+===============+===========+===========+===========+===========+
+| E2        | 0             | 0.039     | 0.088     | 0.089     | 0.122     |
++-----------+---------------+-----------+-----------+-----------+-----------+
+| E2        | **1**         | **0.916** | **0.783** | **0.846** | **0.833** |
++-----------+---------------+-----------+-----------+-----------+-----------+
+| E2        | 2             | 0.043     | 0.126     | 0.060     | 0.042     |
++-----------+---------------+-----------+-----------+-----------+-----------+
+| E2        | 3             | 0.001     | 0.002     | 0.003     | 0.001     |
++-----------+---------------+-----------+-----------+-----------+-----------+
+|           | **suma(0:2)** | **0.999** | **0.997** | **0.996** | **0.998** |
++-----------+---------------+-----------+-----------+-----------+-----------+
 
 \vspace{-0.2cm}
 
-+-----------+---------------+-------------+-----------+-----------+-----------+
-| Escenario | Edad          | 2020.0      | 2020.5    | 2021.0    | 2021.5    |
-+===========+===============+=============+===========+===========+===========+
-| E2        | 0             | 0.039       | 0.088     | 0.089     | 0.122     |
-+-----------+---------------+-------------+-----------+-----------+-----------+
-| E2        | **1**         | **0.916**   | **0.783** | **0.846** | **0.833** |
-+-----------+---------------+-------------+-----------+-----------+-----------+
-| E2        | 2             | 0.043       | 0.126     | 0.060     | 0.042     |
-+-----------+---------------+-------------+-----------+-----------+-----------+
-| E2        | 3             | 0.001       | 0.002     | 0.003     | 0.001     |
-+-----------+---------------+-------------+-----------+-----------+-----------+
-|           | **suma(0:2)** | **0.999**   | **0.997** | **0.996** | **0.998** |
-+-----------+---------------+-------------+-----------+-----------+-----------+
-
-\vspace{-0.2cm}
-
++-----------+---------------+-----------+-----------+-----------+-----------+
 | Escenario | Edad          | 2020.0    | 2020.5    | 2021.0    | 2021.5    |
-|-----------|---------------|-----------|-----------|-----------|-----------|
-| E3        | 0             | 0.103     | 0.095     | 0.093     | 0.118     |
-| E3        | **1**         | **0.788** | **0.861** | **0.845** | **0.839** |
-| E3        | 2             | 0.105     | 0.041     | 0.059     | 0.040     |
-| E3        | 3             | 0.002     | 0.002     | 0.001     | 0.001     |
++===========+===============+===========+===========+===========+===========+
+| E4        | 0             | 0.099     | 0.099     | 0.090     | 0.122     |
++-----------+---------------+-----------+-----------+-----------+-----------+
+| E4        | **1**         | **0.792** | **0.855** | **0.851** | **0.833** |
++-----------+---------------+-----------+-----------+-----------+-----------+
+| E4        | 2             | 0.106     | 0.043     | 0.056     | 0.042     |
++-----------+---------------+-----------+-----------+-----------+-----------+
+| E4        | 3             | 0.002     | 0.002     | 0.001     | 0.001     |
++-----------+---------------+-----------+-----------+-----------+-----------+
 |           | **suma(0:2)** | **0.997** | **0.997** | **0.998** | **0.998** |
-
-\vspace{-0.2cm}
-
-+-----------+---------------+-----------+-------------+-----------+-----------+
-| Escenario | Edad          | 2020.0    | 2020.5      | 2021.0    | 2021.5    |
-+===========+===============+===========+=============+===========+===========+
-| E4        | 0             | 0.099     | 0.099       | 0.090     | 0.122     |
-+-----------+---------------+-----------+-------------+-----------+-----------+
-| E4        | **1**         | **0.792** | **0.855**   | **0.851** | **0.833** |
-+-----------+---------------+-----------+-------------+-----------+-----------+
-| E4        | 2             | 0.106     | 0.043       | 0.056     | 0.042     |
-+-----------+---------------+-----------+-------------+-----------+-----------+
-| E4        | 3             | 0.002     | 0.002       | 0.001     | 0.001     |
-+-----------+---------------+-----------+-------------+-----------+-----------+
-|           | **suma(0:2)** | **0.997** | **0.997**   | **0.998** | **0.998** |
-+-----------+---------------+-----------+-------------+-----------+-----------+
++-----------+---------------+-----------+-----------+-----------+-----------+
 
 \pagebreak
 
 ### Abundancia semestral proyectada
 
-**Tabla x**. Abundancia semestral proyectada (2019.5 - 2021.5) para el escenario **E1**
+**Tabla x**. Abundancia proyectada (2019.5 - 2021.5) para 5 grupos de edad semestral
 
-+---------------+----------+----------+-------------+----------+----------+
-| Edad          | 2019.5   | 2020.0   | 2020.5      | 2021.0   | 2021.5   |
-+===============+==========+==========+=============+==========+==========+
-| 0             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| **1**         |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| 2             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| 3             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| **suma(0:2)** |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
++-----------+--------+--------+--------+--------+--------+--------+
+| Escenario | G.E.   | 2019.5 | 2020.0 | 2020.5 | 2021.0 | 2021.5 |
++===========+========+========+========+========+========+========+
+| E1        | 0      | 498    | 239    | 283    | 239    | 283    |
++-----------+--------+--------+--------+--------+--------+--------+
+| E1        | **1**  | 111    | 165    | 79     | 94     | 78     |
++-----------+--------+--------+--------+--------+--------+--------+
+| E1        | 2      | 27     | 31     | 48     | 22     | 13     |
++-----------+--------+--------+--------+--------+--------+--------+
+| E1        | 3      | 9      | 9      | 10     | 15     | 6      |
++-----------+--------+--------+--------+--------+--------+--------+
+| E1        | **4**  | 2      | 3      | 3      | 3      | 5      |
++-----------+--------+--------+--------+--------+--------+--------+
+| E1        | 5      | 0      | 1      | 1      | 1      | 2      |
++-----------+--------+--------+--------+--------+--------+--------+
 
-**Tabla x**. Abundancia semestral proyectada (2019.5 - 2021.5) para el escenario **E2**
+\vspace{-0.6cm}
 
-+---------------+----------+----------+-------------+----------+----------+
-| Edad          | 2019.5   | 2020.0   | 2020.5      | 2021.0   | 2021.5   |
-+===============+==========+==========+=============+==========+==========+
-| 0             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| **1**         |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| 2             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| 3             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| **suma(0:2)** |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
++-----------+--------+--------+--------+--------+--------+--------+
+| Escenario | G.E.   | 2019.5 | 2020.0 | 2020.5 | 2021.0 | 2021.5 |
++===========+========+========+========+========+========+========+
+| E2        | 0      | 498    | 227    | 265    | 227    | 265    |
++-----------+--------+--------+--------+--------+--------+--------+
+| E2        | **1**  | 111    | 165    | 75     | 88     | 74     |
++-----------+--------+--------+--------+--------+--------+--------+
+| E2        | 2      | 27     | 31     | 48     | 20     | 12     |
++-----------+--------+--------+--------+--------+--------+--------+
+| E2        | 3      | 9      | 9      | 10     | 15     | 6      |
++-----------+--------+--------+--------+--------+--------+--------+
+| E2        | 4      | 2      | 3      | 3      | 3      | 5      |
++-----------+--------+--------+--------+--------+--------+--------+
+| E2        | 5      | 0      | 1      | 1      | 1      | 2      |
++-----------+--------+--------+--------+--------+--------+--------+
 
-**Tabla x**. Abundancia semestral proyectada (2019.5 - 2021.5) para el escenario **E3**
+\vspace{-0.6cm}
 
-+---------------+----------+----------+-------------+----------+----------+
-| Edad          | 2019.5   | 2020.0   | 2020.5      | 2021.0   | 2021.5   |
-+===============+==========+==========+=============+==========+==========+
-| 0             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| **1**         |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| 2             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| 3             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| **suma(0:2)** |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
++-----------+--------+--------+--------+--------+--------+--------+
+| Escenario | G.E.   | 2019.5 | 2020.0 | 2020.5 | 2021.0 | 2021.5 |
++===========+========+========+========+========+========+========+
+| E3        | 0      | 185    | 239    | 268    | 239    | 268    |
++-----------+--------+--------+--------+--------+--------+--------+
+| E3        | **1**  | 111    | 61     | 79     | 88     | 78     |
++-----------+--------+--------+--------+--------+--------+--------+
+| E3        | 2      | 27     | 31     | 15     | 20     | 12     |
++-----------+--------+--------+--------+--------+--------+--------+
+| E3        | 3      | 9      | 9      | 10     | 5      | 6      |
++-----------+--------+--------+--------+--------+--------+--------+
+| E3        | 4      | 2      | 3      | 3      | 3      | 1      |
++-----------+--------+--------+--------+--------+--------+--------+
+| E3        | 5      | 0      | 1      | 1      | 1      | 2      |
++-----------+--------+--------+--------+--------+--------+--------+
 
-**Tabla x**. Abundancia semestral proyectada (2019.5 - 2021.5) para el escenario **E4**
+\vspace{-0.6cm}
 
-+---------------+----------+----------+-------------+----------+----------+
-| Edad          | 2019.5   | 2020.0   | 2020.5      | 2021.0   | 2021.5   |
-+===============+==========+==========+=============+==========+==========+
-| 0             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| **1**         |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| 2             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| 3             |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
-| **suma(0:2)** |          |          |             |          |          |
-+---------------+----------+----------+-------------+----------+----------+
++-----------+-------+--------+--------+--------+--------+--------+
+| Escenario | G.E.  | 2019.5 | 2020.0 | 2020.5 | 2021.0 | 2021.5 |
++===========+=======+========+========+========+========+========+
+| E4        | 0     | 185    | 227    | 265    | 227    | 265    |
++-----------+-------+--------+--------+--------+--------+--------+
+| E4        | **1** | 111    | 61     | 75     | 88     | 74     |
++-----------+-------+--------+--------+--------+--------+--------+
+| E4        | 2     | 27     | 31     | 15     | 19     | 12     |
++-----------+-------+--------+--------+--------+--------+--------+
+| E4        | 3     | 9      | 9      | 10     | 5      | 5      |
++-----------+-------+--------+--------+--------+--------+--------+
+| E4        | 4     | 2      | 3      | 3      | 3      | 2      |
++-----------+-------+--------+--------+--------+--------+--------+
+| E4        | 5     | 1      | 1      | 1      | 1      | 2      |
++-----------+-------+--------+--------+--------+--------+--------+
 
 \pagebreak
 
@@ -1576,7 +1594,6 @@ Rt / BD / Ft
 \normalsize 
 \vspace{0.5cm}
 ```
-
 **Tabla x**. CBA semestral proyectada y anual (2020) para el stock de anchoveta dato el criterio del F=FRMS y los diferentes escenarios evaluados.
 
 | Escenario | 2020.0 | 2020.5 | 2020 total |
