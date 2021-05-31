@@ -166,6 +166,11 @@ Considerando la información previamente señalada en el punto 2, en el sentido 
 ## 2.9. Pesquería
 
 La anchoveta es el recurso objetivo de la pesquería pelágica de cerco de la zona norte de Chile, localizada en la Región de Arica y Parinacota, Región de Tarapacá y la Región de Antofagasta. La pesquería de anchoveta del norte de Chile (18º20'LS - 24º00'LS) ha reportado en promedio 1.271 ($\pm$ 713 mil) millones de toneladas anuales de desembarque desde el año 1984 hasta el 2017, lo que representa una alta importancia a la economía regional y de empleos directos e indirectos, con el consiguiente beneficio económico y social. Los desembarques de la anchoveta en el norte de Chile han presentado fuertes variaciones en la historia de la pesquería, en particular, las capturas fueron bajas en el 2009 y 2010 alrededor de un 46% bajo el promedio 1984-2012 de 809 mil toneladas. Esta situación también se observó en la pesquería del sur del Perú donde en particular los años 2010 y 2013 se observó una disminución de las capturas de más de un 47% bajo el promedio 1984-2012 de 552 mil toneladas. A pesar de que el desembarque de ambos países sufrió un incremento relativo en el año 2011 (1.5 millones de toneladas), en el año 2012 y 2013 se observó una disminución del desembarque total respecto al 2011. Durante el año 2014 (1 millón de toneladas) se observó un repunte del desembarque respecto de semestres equivalentes en años anteriores. En el 2015, el desembarque disminuye leventemente para alcanzar las 926 mil toneladas, pero en el 2016 se registró el valor más bajo durante los últimos diecisiete años, con un registro cercano a las 397 mil toneladas totales (**Figura 6**). Durante el 2017 este valor aumenta por sobre las 700 mil toneladas anuales para el stock compartido de anchoveta, sin embargo, en el 2018 este valor aumenta hasta las 971 mil toneladas anuales, superando la cuota de captura en 211 mil toneladas. En el 2019 este valor alcanzo las 719 mil toneladas, valor por debajo de la cuota correspondiente a 760 mil toneladas. Y en el 2020, este valor cae a las 271 mil toneladas.
+<<<<<<< HEAD
+=======
+
+Estacionalmente, el análisis promedio histórico (2008-2012) de las capturas de anchoveta señalan que éstas se concentran en los siete primeros meses del año, aportando con el 87% del volumen del año, situación distinta a lo observado en los últimos años donde éstos se han focalizado en sólo dos a tres meses. Al respecto, en el 2014 el 89% de los desembarques se registraron en abril y mayo, mientras que en el 2015 el 78% se concentró en mayo y junio. En el 2016 el 73% de las capturas se focalizó en mayo y junio, siendo nulos a partir de septiembre para la región sur del Perú. En el norte de Chile, la captura de anchoveta se concentra en los meses de marzo (2014) y abril (2015). En cambio, en el año 2016 el 77% de las capturas se concentraron en cuatro meses (abril-julio), siendo junio el valor máximo. En el 2017, el 60% de las capturas se concentraron en tres meses (feb-abr), con marzo con el mes de máxima captura.
+>>>>>>> 8ea075d226c3b039de83d2a3e588d2a285bb534f
 
 ```{=tex}
 \begin{center}
@@ -236,10 +241,19 @@ f1/f2
 
 ```{=tex}
 \small
+<<<<<<< HEAD
 \textbf{Figura 7}. Serie de reclutamientos (panel superior) e indicadores del estado del stock ($BD/BD_{RMS}$ y $F/F_{RMS}$) (panel inferior) de anchoveta de la zona norte.
 \normalsize 
 \vspace{0.5cm}
 ```
+=======
+\textbf{Figura 7}. Indicadores del estatus del stock razónBD/BDRMS, c)razónF/FRMS de la anchoveta norte .
+\normalsize 
+\vspace{0.5cm}
+```
+
+
+>>>>>>> 8ea075d226c3b039de83d2a3e588d2a285bb534f
 ## 3.2. Captura Biológicamente Aceptable (CBA)
 
 De acuerdo al ciclo de manejo histórico de esta pesquería, la recomendación de CBA comienza con el cálculo de la CBA inicial que permite al CCT-PP, en septiembre de cada año, para establecer el estatus y recomendar el rango de CBA para el año siguiente. En el mes de diciembre, el crucero de evaluación hidroacústico permite estimar la abundancia y biomasa de reclutas de Chile (fines de año) y Perú (primavera y verano), esta información junto a datos provenientes de la pesquería de Chile y Perú y la estimación de la biomasa desovante a partir del método de producción diaria de huevos, es utilizada para la actualización de la CBA (marzo-abril).
@@ -448,7 +462,7 @@ La mortalidad total, $Z_{a,t}$ se descompone en mortalidad natural ($Ms=M/2$) y 
 Z_{a,t}=M_s + F_{t,f}\zeta_{t,f}
 \end{equation}
 ```
-Donde $M$, $F$ y $s$ han sido previamente definidas, $f$ indexa el tipo de flota (chilena o peruana), y $\zeta_{t,f}$ corresponde al patrón de explotación (o selectividad) del semestre $t$ y flota $f$. La mortalidad natural $Ms$ se asume igual 1.1 (semestre-1). El patrón de explotación es edad y flota específico y sigue una función doble normal definida para todo rango de edad. La función doble-normal utiliza tres parámetros, la edad máxima de selectividad ($k$) y las varianzas del lado derecho ($v^r$) e izquierdo ($v^l$) de la curva. Estos tres parámetros otorgan considerable flexibilidad a la funcionalidad de la selectividad, definida como:
+Donde $M$, $F$ y $s$ han sido previamente definidas, $f$ indexa el tipo de flota (chilena o peruana), y $\zeta_{t,f}$ corresponde al patrón de explotación (o selectividad) del semestre $t$ y flota $f$. La mortalidad natural $Ms$ se asume igual 1.1 (semestre^-1^). El patrón de explotación es edad y flota específico y sigue una función doble normal definida para todo rango de edad. La función doble-normal utiliza tres parámetros, la edad máxima de selectividad ($k$) y las varianzas del lado derecho ($v^r$) e izquierdo ($v^l$) de la curva. Estos tres parámetros otorgan considerable flexibilidad a la funcionalidad de la selectividad, definida como:
 
 ```{=tex}
 \begin{equation}
@@ -1347,9 +1361,9 @@ La **Figura 18** muestra los índices utilizados en la actual evaluación de sto
 
 ### 4.4.2. Mejoras realizadas al modelo de evaluación de stock
 
-La principal mejora realizada al modelo de evaluación de stock para la anchoveta del sur de Perú y norte de Chile fue realizada en el taller de revisión por pares entre los días 11 al 13 de marzo del 2019 por el Dr. James Ianelli, experto del centro de ciencia pesquera de Alaska de la NOAA (National Oceanic and Atmospheric Administration). El taller dio cuenta de la revisión de los datos usados en la evaluación de stock, el crecimiento de la anchoveta basado en micro incrementos diarios y el supuesto de mortalidad natural usado, las hipótesis estructurales que definen el modelo conceptual de la pesquería de la anchoveta del sur de Perú y norte de Chile. Además, se revisó la dinámica poblacional, los modelos de los procesos y error, la configuración del modelo de evaluación. Y finalmente, se revisaron los ajustes del modelo de evaluación a los datos usados, las variables poblacionales estimadas por el modelo, el desempeño del modelo, análisis retrospectivo, puntos biológicos de referencia y estatus del recurso estudiado. Finalmente, durante los días 8 al 12 de julio del 2019 se realizó el Taller "Benchmark Stock Assessment" para la anchoveta del sur de Perú y norte de Chile por la Dra. Carolina Minte-Vera, experta de la Comisión Inter-Americana del Atún Tropical (IATTC) con sede en la Jolla, California, USA. Este taller tuvo la finalidad de incorporar las sugerencias del Dr. Ianelli para mejorar el modelo de evaluación de stock antes de que el modelo pueda ser usado con fines para el manejo pesquero.
+La principal mejora realizada al modelo de evaluación de stock para la anchoveta del sur de Perú y norte de Chile fue realizada en el taller de revisión por pares entre los días 11 al 13 de marzo del 2019 por el Dr. James Ianelli, experto del centro de ciencia pesquera de Alaska de la NOAA (National Oceanic and Atmospheric Administration). El taller dio cuenta de la revisión de los datos usados en la evaluación de stock, el crecimiento de la anchoveta basado en micro incrementos diarios y el supuesto de mortalidad natural usado, las hipótesis estructurales que definen el modelo conceptual de la pesquería de la anchoveta del sur de Perú y norte de Chile. Además, se revisó la dinámica poblacional, los modelos de los procesos y error, la configuración del modelo de evaluación. Finalmente, se revisaron los ajustes del modelo de evaluación a los datos usados, las variables poblacionales estimadas por el modelo, el desempeño del modelo, análisis retrospectivo, puntos biológicos de referencia y estatus del recurso estudiado. Posteriormente, durante los días 8 al 12 de julio del 2019 se realizó el Taller "Benchmark Stock Assessment" para la anchoveta del sur de Perú y norte de Chile con la asesoría de la Dra. Carolina Minte-Vera, experta de la Comisión Inter-Americana del Atún Tropical (IATTC) con sede en la Jolla, California, USA. Este taller tuvo la finalidad de incorporar las sugerencias del Dr. Ianelli para mejorar el modelo de evaluación de stock antes de que el modelo pueda ser usado con fines para el manejo pesquero.
 
-Posterior a este taller, se ha continuado haciendo mejoras al modelo de evaluación, primero, la incorporación de una selectividad tipo doble-normal, con la capacidad de convertirse en logística en caso que los datos en las estructuras de tallas lo indiquen, dado el valor de la varianza asignado al lado izquierdo de esta ecuación asignado por el modelo. Esta mejora permite lidiar con las altas mortalidades por pesca que se observan en el modelo logístico (las que alcanzan el límite superior establecido por el modelo) y que repercuten en el análisis retrospectivo cuando se registran las altas abundancias totales estimadas a través del método acústico y las bajas capturas que se registra durante el año 2016. Segundo, otra mejora realizada que no tiene relación con el código del modelo de evaluación pero sí con el tratamiento de la información utilizada en el modelo de evaluación, es la incorporación de la relación longitud-peso variable por semestre desde el año 2001 hasta el 2020 (**Figura 14**), debido principalmente a la variabilidad que se han observado en las estructuras de tallas de las capturas (**Figura 12** y **13**) durante los últimos veinte años, y más aún durante los últimos cinco años, donde la talla media ha alcanzado valores por debajo de los 12 cm de longitud total, lo cual implica un menor peso en los individuos capturados.
+Posterior a este taller, se ha continuado haciendo mejoras al modelo de evaluación, primero, la incorporación de una selectividad tipo doble-normal, con la capacidad de convertirse en logística en caso que los datos en las estructuras de tallas lo indiquen, dado el valor de la varianza asignado al lado izquierdo de esta ecuación estimado por el modelo. Esta mejora permite lidiar con las altas mortalidades por pesca que se observan en el modelo logístico (las que alcanzan el límite superior establecido por el modelo) y que repercuten en el análisis retrospectivo cuando se registran las altas abundancias totales estimadas a través del método acústico y las bajas capturas que se registra durante el año 2016. Segundo, otra mejora realizada que no tiene relación con el código del modelo de evaluación pero sí con el tratamiento de la información utilizada en el modelo, es la incorporación de la relación longitud-peso variable por semestre desde el año 2001 hasta el 2020 (**Figura 14**), debido principalmente a la variabilidad que se han observado en las estructuras de tallas de las capturas durante los últimos veinte años (**Figura 12** y **Figura 13**), y más aún durante los últimos cinco años, en que la talla media registra valores por debajo de los 12 cm de longitud total, lo cual implica un menor peso de los individuos capturados.
 
 ### 4.4.3. Avances en la reducción de brechas
 
@@ -1441,7 +1455,7 @@ Rt / BD / Ft
 
 ```{=tex}
 \begin{center}
-\includegraphics[width=1\textwidth]{Figuras/proyeccion.pdf}
+\includegraphics[width=1\textwidth]{Figuras/Proyecciones.png}
 \end{center}
 ```
 ```{=tex}
@@ -1585,7 +1599,7 @@ Rt / BD / Ft
 
 ```{=tex}
 \begin{center}
-\includegraphics[width=1\textwidth]{Figuras/proyecciones_2.pdf}
+\includegraphics[width=1\textwidth]{Figuras/Proyecciones_2.png}
 \end{center}
 ```
 ```{=tex}
