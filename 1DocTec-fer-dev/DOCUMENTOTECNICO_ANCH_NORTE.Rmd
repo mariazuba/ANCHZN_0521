@@ -6,7 +6,7 @@ toc: TRUE
 header-includes:
 - \usepackage[utf8]{inputenc}
 - \usepackage{draftwatermark}
-- \SetWatermarkText{Preliminar}
+- \SetWatermarkText{}
 - \usepackage{fancyhdr}
 - \usepackage{graphicx}
 - \usepackage{gensymb}
